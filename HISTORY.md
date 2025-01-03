@@ -3,3 +3,4 @@
 - 2025-01-02T13:52:30: style: adjust spacing and typography
 - 2025-01-02T15:46:15: fix: intersection observer threshold
 - 2025-01-02T16:28:30: style: update color palette
+- 2025-01-03T10:00:33: refactor: optimize re-renders
