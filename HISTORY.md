@@ -7,3 +7,4 @@
 - 2025-01-03T10:10:53: style: update color palette
 - 2025-01-03T10:14:39: fix: mobile menu toggle bug
 - 2025-01-03T10:38:47: refactor: optimize re-renders
+- 2025-01-03T12:46:12: feat: add loading state improvements
