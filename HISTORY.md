@@ -17,3 +17,4 @@
 - 2025-01-09T15:51:04: feat: improve form validation
 - 2025-01-09T17:42:46: style: refine gradient colors
 - 2025-01-10T16:11:49: fix: timeline alignment on mobile
+- 2025-01-10T17:45:39: feat: add loading state improvements
