@@ -21,3 +21,4 @@
 - 2025-01-10T19:42:54: style: update color palette
 - 2025-01-11T19:34:24: chore: cleanup unused imports
 - 2025-01-12T19:28:40: feat: improve hover interactions
+- 2025-01-12T23:07:34: feat: add section transitions
