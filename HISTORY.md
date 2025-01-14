@@ -22,3 +22,4 @@
 - 2025-01-11T19:34:24: chore: cleanup unused imports
 - 2025-01-12T19:28:40: feat: improve hover interactions
 - 2025-01-12T23:07:34: feat: add section transitions
+- 2025-01-14T09:02:29: style: adjust spacing and typography
