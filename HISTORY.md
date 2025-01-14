@@ -23,3 +23,4 @@
 - 2025-01-12T19:28:40: feat: improve hover interactions
 - 2025-01-12T23:07:34: feat: add section transitions
 - 2025-01-14T09:02:29: style: adjust spacing and typography
+- 2025-01-14T21:55:50: fix: navbar scroll detection
