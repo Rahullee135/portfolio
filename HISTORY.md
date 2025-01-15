@@ -25,3 +25,4 @@
 - 2025-01-14T09:02:29: style: adjust spacing and typography
 - 2025-01-14T21:55:50: fix: navbar scroll detection
 - 2025-01-15T11:15:49: style: update badge colors
+- 2025-01-15T13:35:18: fix: timeline alignment on mobile
