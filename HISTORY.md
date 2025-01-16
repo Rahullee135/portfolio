@@ -26,3 +26,4 @@
 - 2025-01-14T21:55:50: fix: navbar scroll detection
 - 2025-01-15T11:15:49: style: update badge colors
 - 2025-01-15T13:35:18: fix: timeline alignment on mobile
+- 2025-01-16T11:23:22: chore: update dependencies
