@@ -28,3 +28,4 @@
 - 2025-01-15T13:35:18: fix: timeline alignment on mobile
 - 2025-01-16T11:23:22: chore: update dependencies
 - 2025-01-16T19:08:59: chore: update project metadata
+- 2025-01-17T10:49:00: fix: glassmorphism blur on Safari
