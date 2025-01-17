@@ -29,3 +29,4 @@
 - 2025-01-16T11:23:22: chore: update dependencies
 - 2025-01-16T19:08:59: chore: update project metadata
 - 2025-01-17T10:49:00: fix: glassmorphism blur on Safari
+- 2025-01-17T22:42:53: fix: intersection observer threshold
