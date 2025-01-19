@@ -31,3 +31,4 @@
 - 2025-01-17T10:49:00: fix: glassmorphism blur on Safari
 - 2025-01-17T22:42:53: fix: intersection observer threshold
 - 2025-01-19T16:54:00: style: refine gradient colors
+- 2025-01-19T18:15:44: feat: add section transitions
