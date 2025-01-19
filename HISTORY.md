@@ -30,3 +30,4 @@
 - 2025-01-16T19:08:59: chore: update project metadata
 - 2025-01-17T10:49:00: fix: glassmorphism blur on Safari
 - 2025-01-17T22:42:53: fix: intersection observer threshold
+- 2025-01-19T16:54:00: style: refine gradient colors
