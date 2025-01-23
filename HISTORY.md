@@ -36,3 +36,4 @@
 - 2025-01-22T09:32:05: refactor: optimize re-renders
 - 2025-01-22T14:42:17: refactor: component lazy loading
 - 2025-01-23T13:21:33: refactor: optimize animation performance
+- 2025-01-23T19:46:29: fix: skill grid overflow
