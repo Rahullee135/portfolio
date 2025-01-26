@@ -39,3 +39,4 @@
 - 2025-01-23T19:46:29: fix: skill grid overflow
 - 2025-01-23T22:39:58: feat: add smooth scroll behavior
 - 2025-01-24T14:42:05: refactor: optimize re-renders
+- 2025-01-26T11:42:17: fix: navbar scroll detection
