@@ -41,3 +41,4 @@
 - 2025-01-24T14:42:05: refactor: optimize re-renders
 - 2025-01-26T11:42:17: fix: navbar scroll detection
 - 2025-01-28T12:08:11: style: adjust spacing and typography
+- 2025-01-29T11:20:02: fix: contact form reset
