@@ -43,3 +43,4 @@
 - 2025-01-28T12:08:11: style: adjust spacing and typography
 - 2025-01-29T11:20:02: fix: contact form reset
 - 2025-01-29T14:40:49: chore: update project metadata
+- 2025-01-29T15:50:26: chore: update dependencies
