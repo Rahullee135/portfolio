@@ -44,3 +44,4 @@
 - 2025-01-29T11:20:02: fix: contact form reset
 - 2025-01-29T14:40:49: chore: update project metadata
 - 2025-01-29T15:50:26: chore: update dependencies
+- 2025-01-29T16:57:42: style: refine gradient colors
