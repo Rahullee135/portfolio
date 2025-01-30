@@ -47,3 +47,4 @@
 - 2025-01-29T16:57:42: style: refine gradient colors
 - 2025-01-29T20:58:49: fix: resolve responsive layout issue
 - 2025-01-30T17:11:35: fix: cursor tracking on scroll
+- 2025-01-30T18:36:24: feat: add micro-interactions
