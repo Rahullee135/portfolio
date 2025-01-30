@@ -46,3 +46,4 @@
 - 2025-01-29T15:50:26: chore: update dependencies
 - 2025-01-29T16:57:42: style: refine gradient colors
 - 2025-01-29T20:58:49: fix: resolve responsive layout issue
+- 2025-01-30T17:11:35: fix: cursor tracking on scroll
