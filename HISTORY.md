@@ -49,3 +49,4 @@
 - 2025-01-30T17:11:35: fix: cursor tracking on scroll
 - 2025-01-30T18:36:24: feat: add micro-interactions
 - 2025-01-31T19:15:57: fix: resolve responsive layout issue
+- 2025-01-31T23:17:28: fix: glassmorphism blur on Safari
