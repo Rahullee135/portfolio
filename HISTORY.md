@@ -50,3 +50,4 @@
 - 2025-01-30T18:36:24: feat: add micro-interactions
 - 2025-01-31T19:15:57: fix: resolve responsive layout issue
 - 2025-01-31T23:17:28: fix: glassmorphism blur on Safari
+- 2025-02-01T11:22:01: refactor: clean up component structure
