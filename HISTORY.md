@@ -52,3 +52,4 @@
 - 2025-01-31T23:17:28: fix: glassmorphism blur on Safari
 - 2025-02-01T11:22:01: refactor: clean up component structure
 - 2025-02-03T09:32:22: feat: add section transitions
+- 2025-02-03T20:43:23: refactor: clean up component structure
