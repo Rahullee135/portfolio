@@ -54,3 +54,4 @@
 - 2025-02-03T09:32:22: feat: add section transitions
 - 2025-02-03T20:43:23: refactor: clean up component structure
 - 2025-02-03T22:48:15: feat: enhance particle effects
+- 2025-02-04T09:07:44: style: adjust spacing and typography
