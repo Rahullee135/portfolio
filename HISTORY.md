@@ -58,3 +58,4 @@
 - 2025-02-04T15:50:29: style: update badge colors
 - 2025-02-05T19:08:26: refactor: clean up component structure
 - 2025-02-06T22:12:42: refactor: optimize re-renders
+- 2025-02-07T11:56:32: refactor: clean up component structure
