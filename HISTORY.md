@@ -63,3 +63,4 @@
 - 2025-02-09T14:56:48: fix: navbar scroll detection
 - 2025-02-10T11:27:57: chore: update dependencies
 - 2025-02-10T13:45:44: refactor: optimize re-renders
+- 2025-02-10T20:12:37: fix: cursor tracking on scroll
