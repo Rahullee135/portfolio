@@ -71,3 +71,4 @@
 - 2025-02-13T17:02:42: style: refine gradient colors
 - 2025-02-13T22:36:15: style: refine gradient colors
 - 2025-02-13T22:52:21: chore: cleanup unused imports
+- 2025-02-14T22:06:52: fix: mobile menu toggle bug
