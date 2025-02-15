@@ -73,3 +73,4 @@
 - 2025-02-13T22:52:21: chore: cleanup unused imports
 - 2025-02-14T22:06:52: fix: mobile menu toggle bug
 - 2025-02-15T14:16:52: style: polish dark theme
+- 2025-02-15T23:45:03: feat: add micro-interactions
