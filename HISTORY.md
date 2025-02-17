@@ -75,3 +75,4 @@
 - 2025-02-15T14:16:52: style: polish dark theme
 - 2025-02-15T23:45:03: feat: add micro-interactions
 - 2025-02-17T09:28:22: feat: add loading state improvements
+- 2025-02-17T22:36:29: feat: improve hover interactions
