@@ -78,3 +78,4 @@
 - 2025-02-17T22:36:29: feat: improve hover interactions
 - 2025-02-18T11:52:03: chore: update dependencies
 - 2025-02-19T14:08:11: fix: contact form reset
+- 2025-02-19T17:57:57: style: improve code window styling
