@@ -81,3 +81,4 @@
 - 2025-02-19T17:57:57: style: improve code window styling
 - 2025-02-21T09:09:26: fix: timeline alignment on mobile
 - 2025-02-21T18:52:15: chore: update dependencies
+- 2025-02-21T21:15:48: style: adjust spacing and typography
