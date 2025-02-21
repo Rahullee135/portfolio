@@ -79,3 +79,4 @@
 - 2025-02-18T11:52:03: chore: update dependencies
 - 2025-02-19T14:08:11: fix: contact form reset
 - 2025-02-19T17:57:57: style: improve code window styling
+- 2025-02-21T09:09:26: fix: timeline alignment on mobile
