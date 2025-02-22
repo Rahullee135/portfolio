@@ -82,3 +82,4 @@
 - 2025-02-21T09:09:26: fix: timeline alignment on mobile
 - 2025-02-21T18:52:15: chore: update dependencies
 - 2025-02-21T21:15:48: style: adjust spacing and typography
+- 2025-02-22T14:43:39: fix: resolve responsive layout issue
