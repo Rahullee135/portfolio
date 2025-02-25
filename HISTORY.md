@@ -87,3 +87,4 @@
 - 2025-02-24T10:05:29: feat: enhance particle effects
 - 2025-02-25T09:32:08: fix: mobile menu toggle bug
 - 2025-02-25T10:17:18: refactor: extract reusable hooks
+- 2025-02-25T14:06:27: chore: update project metadata
