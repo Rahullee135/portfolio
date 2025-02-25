@@ -85,3 +85,4 @@
 - 2025-02-22T14:43:39: fix: resolve responsive layout issue
 - 2025-02-23T21:30:39: feat: add loading state improvements
 - 2025-02-24T10:05:29: feat: enhance particle effects
+- 2025-02-25T09:32:08: fix: mobile menu toggle bug
