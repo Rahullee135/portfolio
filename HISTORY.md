@@ -92,3 +92,4 @@
 - 2025-02-25T23:02:17: refactor: extract reusable hooks
 - 2025-02-26T14:40:00: refactor: optimize re-renders
 - 2025-02-27T10:10:45: refactor: clean up component structure
+- 2025-02-27T15:07:12: feat: add smooth scroll behavior
