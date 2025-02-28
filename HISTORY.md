@@ -94,3 +94,4 @@
 - 2025-02-27T10:10:45: refactor: clean up component structure
 - 2025-02-27T15:07:12: feat: add smooth scroll behavior
 - 2025-02-27T17:44:58: fix: contact form reset
+- 2025-02-28T13:32:54: refactor: clean up component structure
