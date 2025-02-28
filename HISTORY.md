@@ -95,3 +95,4 @@
 - 2025-02-27T15:07:12: feat: add smooth scroll behavior
 - 2025-02-27T17:44:58: fix: contact form reset
 - 2025-02-28T13:32:54: refactor: clean up component structure
+- 2025-02-28T15:12:28: feat: improve hover interactions
