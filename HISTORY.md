@@ -99,3 +99,4 @@
 - 2025-02-28T19:52:40: chore: update project metadata
 - 2025-02-28T21:04:36: refactor: component lazy loading
 - 2025-03-04T15:05:56: chore: update project metadata
+- 2025-03-07T13:48:01: fix: navbar scroll detection
