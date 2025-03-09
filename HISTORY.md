@@ -101,3 +101,4 @@
 - 2025-03-04T15:05:56: chore: update project metadata
 - 2025-03-07T13:48:01: fix: navbar scroll detection
 - 2025-03-07T16:50:20: fix: cursor tracking on scroll
+- 2025-03-09T21:10:27: chore: update dependencies
