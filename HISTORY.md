@@ -104,3 +104,4 @@
 - 2025-03-09T21:10:27: chore: update dependencies
 - 2025-03-10T13:07:54: fix: contact form reset
 - 2025-03-10T15:11:58: refactor: component lazy loading
+- 2025-03-12T22:28:19: fix: resolve responsive layout issue
