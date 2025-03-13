@@ -106,3 +106,4 @@
 - 2025-03-10T15:11:58: refactor: component lazy loading
 - 2025-03-12T22:28:19: fix: resolve responsive layout issue
 - 2025-03-13T09:59:39: fix: skill grid overflow
+- 2025-03-13T11:15:28: style: improve code window styling
