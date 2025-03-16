@@ -109,3 +109,4 @@
 - 2025-03-13T11:15:28: style: improve code window styling
 - 2025-03-14T10:32:31: fix: cursor tracking on scroll
 - 2025-03-15T21:59:11: feat: add micro-interactions
+- 2025-03-16T15:33:21: refactor: optimize animation performance
