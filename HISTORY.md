@@ -117,3 +117,4 @@
 - 2025-03-18T17:49:07: style: improve code window styling
 - 2025-03-18T19:28:51: style: update color palette
 - 2025-03-19T10:11:53: feat: add smooth scroll behavior
+- 2025-03-21T12:51:28: style: update badge colors
