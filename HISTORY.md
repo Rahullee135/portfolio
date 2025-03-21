@@ -120,3 +120,4 @@
 - 2025-03-21T12:51:28: style: update badge colors
 - 2025-03-21T17:13:02: fix: skill grid overflow
 - 2025-03-21T18:15:05: feat: enhance particle effects
+- 2025-03-21T22:49:32: chore: update dependencies
