@@ -122,3 +122,4 @@
 - 2025-03-21T18:15:05: feat: enhance particle effects
 - 2025-03-21T22:49:32: chore: update dependencies
 - 2025-03-22T12:25:22: refactor: optimize animation performance
+- 2025-03-24T12:12:59: refactor: clean up component structure
