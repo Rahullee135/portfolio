@@ -124,3 +124,4 @@
 - 2025-03-22T12:25:22: refactor: optimize animation performance
 - 2025-03-24T12:12:59: refactor: clean up component structure
 - 2025-03-24T13:46:47: fix: navbar scroll detection
+- 2025-03-25T15:21:09: refactor: optimize animation performance
