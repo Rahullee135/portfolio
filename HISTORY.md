@@ -131,3 +131,4 @@
 - 2025-03-26T18:26:17: chore: update project metadata
 - 2025-03-27T12:27:15: chore: update dependencies
 - 2025-03-28T14:09:19: style: update color palette
+- 2025-03-28T18:07:39: refactor: extract reusable hooks
