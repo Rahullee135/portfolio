@@ -132,3 +132,4 @@
 - 2025-03-27T12:27:15: chore: update dependencies
 - 2025-03-28T14:09:19: style: update color palette
 - 2025-03-28T18:07:39: refactor: extract reusable hooks
+- 2025-03-31T12:55:08: fix: intersection observer threshold
