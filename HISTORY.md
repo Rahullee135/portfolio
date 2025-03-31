@@ -135,3 +135,4 @@
 - 2025-03-31T12:55:08: fix: intersection observer threshold
 - 2025-03-31T15:23:13: fix: intersection observer threshold
 - 2025-03-31T16:33:51: style: adjust spacing and typography
+- 2025-03-31T21:06:12: refactor: clean up component structure
