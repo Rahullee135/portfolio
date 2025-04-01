@@ -138,3 +138,4 @@
 - 2025-03-31T21:06:12: refactor: clean up component structure
 - 2025-03-31T22:43:36: style: update badge colors
 - 2025-04-01T12:50:41: feat: enhance particle effects
+- 2025-04-01T19:23:38: fix: skill grid overflow
