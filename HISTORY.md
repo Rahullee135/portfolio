@@ -139,3 +139,4 @@
 - 2025-03-31T22:43:36: style: update badge colors
 - 2025-04-01T12:50:41: feat: enhance particle effects
 - 2025-04-01T19:23:38: fix: skill grid overflow
+- 2025-04-02T16:06:31: fix: timeline alignment on mobile
