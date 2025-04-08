@@ -146,3 +146,4 @@
 - 2025-04-06T16:40:11: fix: resolve responsive layout issue
 - 2025-04-07T09:57:18: style: update badge colors
 - 2025-04-08T10:48:02: fix: skill grid overflow
+- 2025-04-08T23:29:29: chore: update project metadata
