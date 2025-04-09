@@ -147,3 +147,4 @@
 - 2025-04-07T09:57:18: style: update badge colors
 - 2025-04-08T10:48:02: fix: skill grid overflow
 - 2025-04-08T23:29:29: chore: update project metadata
+- 2025-04-09T16:29:00: feat: add loading state improvements
