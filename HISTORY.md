@@ -148,3 +148,4 @@
 - 2025-04-08T10:48:02: fix: skill grid overflow
 - 2025-04-08T23:29:29: chore: update project metadata
 - 2025-04-09T16:29:00: feat: add loading state improvements
+- 2025-04-10T11:35:53: style: refine gradient colors
