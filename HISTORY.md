@@ -149,3 +149,4 @@
 - 2025-04-08T23:29:29: chore: update project metadata
 - 2025-04-09T16:29:00: feat: add loading state improvements
 - 2025-04-10T11:35:53: style: refine gradient colors
+- 2025-04-13T10:07:56: feat: improve form validation
