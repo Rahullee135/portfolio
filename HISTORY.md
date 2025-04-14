@@ -151,3 +151,4 @@
 - 2025-04-10T11:35:53: style: refine gradient colors
 - 2025-04-13T10:07:56: feat: improve form validation
 - 2025-04-13T21:23:30: feat: improve hover interactions
+- 2025-04-14T12:45:05: fix: mobile menu toggle bug
