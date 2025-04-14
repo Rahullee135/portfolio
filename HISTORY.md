@@ -153,3 +153,4 @@
 - 2025-04-13T21:23:30: feat: improve hover interactions
 - 2025-04-14T12:45:05: fix: mobile menu toggle bug
 - 2025-04-14T18:06:17: chore: cleanup unused imports
+- 2025-04-14T20:57:22: fix: intersection observer threshold
