@@ -152,3 +152,4 @@
 - 2025-04-13T10:07:56: feat: improve form validation
 - 2025-04-13T21:23:30: feat: improve hover interactions
 - 2025-04-14T12:45:05: fix: mobile menu toggle bug
+- 2025-04-14T18:06:17: chore: cleanup unused imports
