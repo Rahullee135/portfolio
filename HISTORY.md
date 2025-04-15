@@ -157,3 +157,4 @@
 - 2025-04-14T23:25:02: fix: cursor tracking on scroll
 - 2025-04-15T14:07:12: feat: add section transitions
 - 2025-04-15T18:42:22: fix: intersection observer threshold
+- 2025-04-15T21:41:05: feat: improve hover interactions
