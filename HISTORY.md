@@ -161,3 +161,4 @@
 - 2025-04-16T09:54:05: feat: add micro-interactions
 - 2025-04-16T13:40:53: style: refine gradient colors
 - 2025-04-16T14:26:50: fix: intersection observer threshold
+- 2025-04-16T16:51:26: fix: contact form reset
