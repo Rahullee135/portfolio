@@ -160,3 +160,4 @@
 - 2025-04-15T21:41:05: feat: improve hover interactions
 - 2025-04-16T09:54:05: feat: add micro-interactions
 - 2025-04-16T13:40:53: style: refine gradient colors
+- 2025-04-16T14:26:50: fix: intersection observer threshold
