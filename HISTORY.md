@@ -163,3 +163,4 @@
 - 2025-04-16T14:26:50: fix: intersection observer threshold
 - 2025-04-16T16:51:26: fix: contact form reset
 - 2025-04-17T12:01:06: refactor: extract reusable hooks
+- 2025-04-17T19:14:11: fix: mobile menu toggle bug
