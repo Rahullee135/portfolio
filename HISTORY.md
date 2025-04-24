@@ -171,3 +171,4 @@
 - 2025-04-21T09:35:00: fix: skill grid overflow
 - 2025-04-21T19:55:01: refactor: optimize animation performance
 - 2025-04-23T10:26:54: fix: skill grid overflow
+- 2025-04-24T11:53:55: feat: improve hover interactions
