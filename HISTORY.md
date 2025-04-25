@@ -175,3 +175,4 @@
 - 2025-04-24T22:59:10: fix: cursor tracking on scroll
 - 2025-04-25T10:29:33: fix: contact form reset
 - 2025-04-25T16:26:35: fix: skill grid overflow
+- 2025-04-25T21:21:16: fix: cursor tracking on scroll
