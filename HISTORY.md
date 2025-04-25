@@ -173,3 +173,4 @@
 - 2025-04-23T10:26:54: fix: skill grid overflow
 - 2025-04-24T11:53:55: feat: improve hover interactions
 - 2025-04-24T22:59:10: fix: cursor tracking on scroll
+- 2025-04-25T10:29:33: fix: contact form reset
