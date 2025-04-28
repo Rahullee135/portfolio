@@ -179,3 +179,4 @@
 - 2025-04-25T22:58:31: fix: cursor tracking on scroll
 - 2025-04-26T13:37:27: style: update color palette
 - 2025-04-27T14:57:55: chore: update dependencies
+- 2025-04-28T10:15:52: fix: navbar scroll detection
