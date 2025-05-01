@@ -186,3 +186,4 @@
 - 2025-04-28T19:04:33: refactor: optimize animation performance
 - 2025-04-29T20:16:47: refactor: optimize animation performance
 - 2025-04-30T16:43:05: fix: timeline alignment on mobile
+- 2025-05-01T20:02:02: fix: resolve responsive layout issue
