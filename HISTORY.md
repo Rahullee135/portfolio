@@ -195,3 +195,4 @@
 - 2025-05-05T14:38:00: fix: skill grid overflow
 - 2025-05-05T15:31:57: fix: skill grid overflow
 - 2025-05-05T22:34:09: fix: intersection observer threshold
+- 2025-05-06T12:16:31: fix: timeline alignment on mobile
