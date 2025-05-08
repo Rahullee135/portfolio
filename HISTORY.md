@@ -199,3 +199,4 @@
 - 2025-05-06T15:35:27: style: improve code window styling
 - 2025-05-08T14:22:55: refactor: optimize re-renders
 - 2025-05-08T16:24:01: feat: enhance particle effects
+- 2025-05-08T17:38:56: feat: add smooth scroll behavior
