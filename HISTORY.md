@@ -197,3 +197,4 @@
 - 2025-05-05T22:34:09: fix: intersection observer threshold
 - 2025-05-06T12:16:31: fix: timeline alignment on mobile
 - 2025-05-06T15:35:27: style: improve code window styling
+- 2025-05-08T14:22:55: refactor: optimize re-renders
