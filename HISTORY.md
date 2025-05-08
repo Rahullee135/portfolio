@@ -201,3 +201,4 @@
 - 2025-05-08T16:24:01: feat: enhance particle effects
 - 2025-05-08T17:38:56: feat: add smooth scroll behavior
 - 2025-05-08T18:39:20: fix: timeline alignment on mobile
+- 2025-05-08T19:43:46: feat: add section transitions
