@@ -203,3 +203,4 @@
 - 2025-05-08T18:39:20: fix: timeline alignment on mobile
 - 2025-05-08T19:43:46: feat: add section transitions
 - 2025-05-09T16:14:17: fix: navbar scroll detection
+- 2025-05-11T19:34:52: fix: resolve responsive layout issue
