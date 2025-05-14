@@ -210,3 +210,4 @@
 - 2025-05-14T14:27:03: feat: add smooth scroll behavior
 - 2025-05-14T14:32:11: style: update badge colors
 - 2025-05-14T18:01:28: refactor: component lazy loading
+- 2025-05-14T23:36:29: chore: cleanup unused imports
