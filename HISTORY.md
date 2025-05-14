@@ -207,3 +207,4 @@
 - 2025-05-12T17:57:57: feat: improve form validation
 - 2025-05-13T10:27:19: chore: cleanup unused imports
 - 2025-05-14T10:11:24: refactor: optimize animation performance
+- 2025-05-14T14:27:03: feat: add smooth scroll behavior
