@@ -213,3 +213,4 @@
 - 2025-05-14T23:36:29: chore: cleanup unused imports
 - 2025-05-15T10:45:24: fix: navbar scroll detection
 - 2025-05-15T14:25:10: feat: add smooth scroll behavior
+- 2025-05-15T14:47:43: refactor: clean up component structure
