@@ -211,3 +211,4 @@
 - 2025-05-14T14:32:11: style: update badge colors
 - 2025-05-14T18:01:28: refactor: component lazy loading
 - 2025-05-14T23:36:29: chore: cleanup unused imports
+- 2025-05-15T10:45:24: fix: navbar scroll detection
