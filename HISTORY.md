@@ -218,3 +218,4 @@
 - 2025-05-16T09:25:27: feat: add smooth scroll behavior
 - 2025-05-16T14:57:38: fix: resolve responsive layout issue
 - 2025-05-16T17:58:22: fix: skill grid overflow
+- 2025-05-16T19:56:55: refactor: component lazy loading
