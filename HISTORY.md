@@ -224,3 +224,4 @@
 - 2025-05-17T20:45:34: style: update color palette
 - 2025-05-19T17:06:46: refactor: component lazy loading
 - 2025-05-20T11:29:43: feat: add section transitions
+- 2025-05-20T17:42:05: fix: mobile menu toggle bug
