@@ -226,3 +226,4 @@
 - 2025-05-20T11:29:43: feat: add section transitions
 - 2025-05-20T17:42:05: fix: mobile menu toggle bug
 - 2025-05-20T19:47:44: fix: mobile menu toggle bug
+- 2025-05-20T23:42:14: style: refine gradient colors
