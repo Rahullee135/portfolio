@@ -228,3 +228,4 @@
 - 2025-05-20T19:47:44: fix: mobile menu toggle bug
 - 2025-05-20T23:42:14: style: refine gradient colors
 - 2025-05-22T17:14:15: fix: contact form reset
+- 2025-05-23T12:50:15: style: improve code window styling
