@@ -230,3 +230,4 @@
 - 2025-05-22T17:14:15: fix: contact form reset
 - 2025-05-23T12:50:15: style: improve code window styling
 - 2025-05-23T12:51:55: feat: improve hover interactions
+- 2025-05-23T17:05:58: style: refine gradient colors
