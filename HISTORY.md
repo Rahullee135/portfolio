@@ -232,3 +232,4 @@
 - 2025-05-23T12:51:55: feat: improve hover interactions
 - 2025-05-23T17:05:58: style: refine gradient colors
 - 2025-05-24T21:52:48: feat: enhance particle effects
+- 2025-05-26T11:25:19: style: polish dark theme
