@@ -234,3 +234,4 @@
 - 2025-05-24T21:52:48: feat: enhance particle effects
 - 2025-05-26T11:25:19: style: polish dark theme
 - 2025-05-27T09:03:46: feat: add smooth scroll behavior
+- 2025-05-27T20:53:17: feat: improve hover interactions
