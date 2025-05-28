@@ -236,3 +236,4 @@
 - 2025-05-27T09:03:46: feat: add smooth scroll behavior
 - 2025-05-27T20:53:17: feat: improve hover interactions
 - 2025-05-28T09:47:56: fix: skill grid overflow
+- 2025-05-28T14:58:00: fix: intersection observer threshold
