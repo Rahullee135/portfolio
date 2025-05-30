@@ -243,3 +243,4 @@
 - 2025-05-29T21:51:00: style: adjust spacing and typography
 - 2025-05-29T22:38:02: chore: update dependencies
 - 2025-05-30T11:12:55: fix: timeline alignment on mobile
+- 2025-05-30T12:49:42: style: improve code window styling
