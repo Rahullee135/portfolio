@@ -245,3 +245,4 @@
 - 2025-05-30T11:12:55: fix: timeline alignment on mobile
 - 2025-05-30T12:49:42: style: improve code window styling
 - 2025-05-31T17:47:05: feat: add loading state improvements
+- 2025-06-01T23:41:24: fix: contact form reset
