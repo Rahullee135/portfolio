@@ -246,3 +246,4 @@
 - 2025-05-30T12:49:42: style: improve code window styling
 - 2025-05-31T17:47:05: feat: add loading state improvements
 - 2025-06-01T23:41:24: fix: contact form reset
+- 2025-06-02T14:58:50: refactor: clean up component structure
