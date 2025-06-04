@@ -248,3 +248,4 @@
 - 2025-06-01T23:41:24: fix: contact form reset
 - 2025-06-02T14:58:50: refactor: clean up component structure
 - 2025-06-03T09:36:56: fix: intersection observer threshold
+- 2025-06-04T14:16:51: style: polish dark theme
