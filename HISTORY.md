@@ -251,3 +251,4 @@
 - 2025-06-04T14:16:51: style: polish dark theme
 - 2025-06-04T20:31:32: fix: skill grid overflow
 - 2025-06-04T21:36:16: chore: update project metadata
+- 2025-06-05T09:42:29: feat: improve hover interactions
