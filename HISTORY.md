@@ -254,3 +254,4 @@
 - 2025-06-05T09:42:29: feat: improve hover interactions
 - 2025-06-05T16:54:15: fix: intersection observer threshold
 - 2025-06-05T17:23:44: fix: skill grid overflow
+- 2025-06-06T14:29:34: fix: cursor tracking on scroll
