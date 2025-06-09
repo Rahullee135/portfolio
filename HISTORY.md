@@ -256,3 +256,4 @@
 - 2025-06-05T17:23:44: fix: skill grid overflow
 - 2025-06-06T14:29:34: fix: cursor tracking on scroll
 - 2025-06-08T18:49:23: fix: skill grid overflow
+- 2025-06-09T19:34:55: chore: cleanup unused imports
