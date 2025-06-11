@@ -258,3 +258,4 @@
 - 2025-06-08T18:49:23: fix: skill grid overflow
 - 2025-06-09T19:34:55: chore: cleanup unused imports
 - 2025-06-10T23:17:04: chore: cleanup unused imports
+- 2025-06-11T23:06:47: feat: improve hover interactions
