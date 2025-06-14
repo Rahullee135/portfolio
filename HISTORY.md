@@ -266,3 +266,4 @@
 - 2025-06-13T15:03:59: feat: add loading state improvements
 - 2025-06-13T21:26:19: style: polish dark theme
 - 2025-06-13T23:11:57: style: update color palette
+- 2025-06-14T22:02:39: fix: contact form reset
