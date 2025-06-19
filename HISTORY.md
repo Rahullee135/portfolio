@@ -270,3 +270,4 @@
 - 2025-06-15T21:02:03: fix: timeline alignment on mobile
 - 2025-06-15T22:47:52: fix: cursor tracking on scroll
 - 2025-06-16T21:42:50: refactor: optimize animation performance
+- 2025-06-19T11:47:50: feat: improve hover interactions
