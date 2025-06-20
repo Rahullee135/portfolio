@@ -273,3 +273,4 @@
 - 2025-06-19T11:47:50: feat: improve hover interactions
 - 2025-06-20T13:10:24: feat: improve hover interactions
 - 2025-06-20T15:54:29: fix: timeline alignment on mobile
+- 2025-06-20T22:39:00: fix: mobile menu toggle bug
