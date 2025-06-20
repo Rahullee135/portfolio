@@ -272,3 +272,4 @@
 - 2025-06-16T21:42:50: refactor: optimize animation performance
 - 2025-06-19T11:47:50: feat: improve hover interactions
 - 2025-06-20T13:10:24: feat: improve hover interactions
+- 2025-06-20T15:54:29: fix: timeline alignment on mobile
