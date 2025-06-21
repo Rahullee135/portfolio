@@ -274,3 +274,4 @@
 - 2025-06-20T13:10:24: feat: improve hover interactions
 - 2025-06-20T15:54:29: fix: timeline alignment on mobile
 - 2025-06-20T22:39:00: fix: mobile menu toggle bug
+- 2025-06-21T19:31:18: refactor: optimize animation performance
