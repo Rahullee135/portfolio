@@ -275,3 +275,4 @@
 - 2025-06-20T15:54:29: fix: timeline alignment on mobile
 - 2025-06-20T22:39:00: fix: mobile menu toggle bug
 - 2025-06-21T19:31:18: refactor: optimize animation performance
+- 2025-06-21T23:45:39: style: improve code window styling
