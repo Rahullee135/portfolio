@@ -282,3 +282,4 @@
 - 2025-06-23T23:40:49: feat: enhance particle effects
 - 2025-06-24T21:25:31: feat: enhance particle effects
 - 2025-06-24T21:44:04: refactor: optimize re-renders
+- 2025-06-25T20:30:03: fix: timeline alignment on mobile
