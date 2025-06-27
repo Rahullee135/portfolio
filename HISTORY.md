@@ -284,3 +284,4 @@
 - 2025-06-24T21:44:04: refactor: optimize re-renders
 - 2025-06-25T20:30:03: fix: timeline alignment on mobile
 - 2025-06-26T12:34:41: fix: mobile menu toggle bug
+- 2025-06-27T18:08:05: feat: enhance particle effects
