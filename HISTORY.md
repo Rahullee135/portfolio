@@ -286,3 +286,4 @@
 - 2025-06-26T12:34:41: fix: mobile menu toggle bug
 - 2025-06-27T18:08:05: feat: enhance particle effects
 - 2025-06-28T14:03:53: feat: add section transitions
+- 2025-06-28T14:32:54: fix: resolve responsive layout issue
