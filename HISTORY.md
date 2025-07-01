@@ -290,3 +290,4 @@
 - 2025-06-30T22:57:39: style: improve code window styling
 - 2025-07-01T09:26:27: fix: timeline alignment on mobile
 - 2025-07-01T16:32:38: feat: improve hover interactions
+- 2025-07-01T20:07:18: style: update color palette
