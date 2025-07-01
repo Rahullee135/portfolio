@@ -288,3 +288,4 @@
 - 2025-06-28T14:03:53: feat: add section transitions
 - 2025-06-28T14:32:54: fix: resolve responsive layout issue
 - 2025-06-30T22:57:39: style: improve code window styling
+- 2025-07-01T09:26:27: fix: timeline alignment on mobile
