@@ -298,3 +298,4 @@
 - 2025-07-02T21:57:07: fix: navbar scroll detection
 - 2025-07-03T10:05:08: style: adjust spacing and typography
 - 2025-07-03T12:19:20: refactor: clean up component structure
+- 2025-07-03T13:19:16: refactor: optimize animation performance
