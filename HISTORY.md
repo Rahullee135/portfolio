@@ -304,3 +304,4 @@
 - 2025-07-04T18:43:36: chore: update dependencies
 - 2025-07-06T12:57:33: chore: update dependencies
 - 2025-07-06T17:02:00: feat: add smooth scroll behavior
+- 2025-07-07T11:02:22: fix: navbar scroll detection
