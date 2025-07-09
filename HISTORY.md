@@ -306,3 +306,4 @@
 - 2025-07-06T17:02:00: feat: add smooth scroll behavior
 - 2025-07-07T11:02:22: fix: navbar scroll detection
 - 2025-07-07T18:37:42: feat: add loading state improvements
+- 2025-07-09T10:58:42: refactor: component lazy loading
