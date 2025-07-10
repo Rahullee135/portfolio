@@ -311,3 +311,4 @@
 - 2025-07-09T17:57:50: fix: cursor tracking on scroll
 - 2025-07-09T19:05:21: feat: improve hover interactions
 - 2025-07-10T09:06:44: refactor: optimize re-renders
+- 2025-07-10T10:25:15: fix: mobile menu toggle bug
