@@ -314,3 +314,4 @@
 - 2025-07-10T10:25:15: fix: mobile menu toggle bug
 - 2025-07-10T12:22:16: feat: add section transitions
 - 2025-07-10T15:37:07: fix: resolve responsive layout issue
+- 2025-07-10T23:56:12: style: update color palette
