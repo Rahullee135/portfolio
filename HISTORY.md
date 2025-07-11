@@ -315,3 +315,4 @@
 - 2025-07-10T12:22:16: feat: add section transitions
 - 2025-07-10T15:37:07: fix: resolve responsive layout issue
 - 2025-07-10T23:56:12: style: update color palette
+- 2025-07-11T14:06:04: refactor: clean up component structure
