@@ -317,3 +317,4 @@
 - 2025-07-10T23:56:12: style: update color palette
 - 2025-07-11T14:06:04: refactor: clean up component structure
 - 2025-07-12T16:54:34: chore: update project metadata
+- 2025-07-12T21:54:41: style: polish dark theme
