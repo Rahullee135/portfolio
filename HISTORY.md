@@ -320,3 +320,4 @@
 - 2025-07-12T21:54:41: style: polish dark theme
 - 2025-07-13T20:23:42: fix: contact form reset
 - 2025-07-14T16:36:05: feat: add section transitions
+- 2025-07-14T23:08:44: feat: add micro-interactions
