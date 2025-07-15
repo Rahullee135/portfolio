@@ -321,3 +321,4 @@
 - 2025-07-13T20:23:42: fix: contact form reset
 - 2025-07-14T16:36:05: feat: add section transitions
 - 2025-07-14T23:08:44: feat: add micro-interactions
+- 2025-07-15T09:51:52: feat: enhance particle effects
