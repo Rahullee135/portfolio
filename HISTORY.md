@@ -325,3 +325,4 @@
 - 2025-07-15T16:17:11: fix: navbar scroll detection
 - 2025-07-16T14:10:16: feat: add micro-interactions
 - 2025-07-16T16:06:06: refactor: optimize animation performance
+- 2025-07-17T18:14:47: feat: enhance particle effects
