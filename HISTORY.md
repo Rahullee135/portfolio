@@ -331,3 +331,4 @@
 - 2025-07-20T20:23:11: refactor: clean up component structure
 - 2025-07-21T09:24:45: style: polish dark theme
 - 2025-07-22T11:39:11: feat: enhance particle effects
+- 2025-07-22T15:13:06: fix: resolve responsive layout issue
