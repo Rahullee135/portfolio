@@ -335,3 +335,4 @@
 - 2025-07-22T16:19:27: style: update badge colors
 - 2025-07-23T09:10:41: feat: enhance particle effects
 - 2025-07-23T16:37:02: feat: improve hover interactions
+- 2025-07-23T18:23:26: fix: glassmorphism blur on Safari
