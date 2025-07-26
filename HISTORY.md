@@ -337,3 +337,4 @@
 - 2025-07-23T16:37:02: feat: improve hover interactions
 - 2025-07-23T18:23:26: fix: glassmorphism blur on Safari
 - 2025-07-24T23:37:44: refactor: clean up component structure
+- 2025-07-26T19:33:46: style: polish dark theme
