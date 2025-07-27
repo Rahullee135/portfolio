@@ -339,3 +339,4 @@
 - 2025-07-24T23:37:44: refactor: clean up component structure
 - 2025-07-26T19:33:46: style: polish dark theme
 - 2025-07-26T20:09:59: chore: update project metadata
+- 2025-07-27T18:03:51: fix: intersection observer threshold
