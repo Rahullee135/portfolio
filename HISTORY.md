@@ -340,3 +340,4 @@
 - 2025-07-26T19:33:46: style: polish dark theme
 - 2025-07-26T20:09:59: chore: update project metadata
 - 2025-07-27T18:03:51: fix: intersection observer threshold
+- 2025-07-28T19:58:37: fix: mobile menu toggle bug
