@@ -342,3 +342,4 @@
 - 2025-07-27T18:03:51: fix: intersection observer threshold
 - 2025-07-28T19:58:37: fix: mobile menu toggle bug
 - 2025-07-28T23:04:36: fix: contact form reset
+- 2025-07-29T12:46:32: fix: timeline alignment on mobile
