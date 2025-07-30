@@ -343,3 +343,4 @@
 - 2025-07-28T19:58:37: fix: mobile menu toggle bug
 - 2025-07-28T23:04:36: fix: contact form reset
 - 2025-07-29T12:46:32: fix: timeline alignment on mobile
+- 2025-07-30T22:28:53: chore: cleanup unused imports
