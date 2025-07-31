@@ -345,3 +345,4 @@
 - 2025-07-29T12:46:32: fix: timeline alignment on mobile
 - 2025-07-30T22:28:53: chore: cleanup unused imports
 - 2025-07-30T22:53:51: refactor: component lazy loading
+- 2025-07-31T15:22:40: fix: mobile menu toggle bug
