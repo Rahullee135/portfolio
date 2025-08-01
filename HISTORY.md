@@ -348,3 +348,4 @@
 - 2025-07-31T15:22:40: fix: mobile menu toggle bug
 - 2025-07-31T21:11:12: fix: mobile menu toggle bug
 - 2025-08-01T14:48:55: feat: enhance particle effects
+- 2025-08-01T15:54:20: feat: add micro-interactions
