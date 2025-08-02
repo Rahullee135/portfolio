@@ -350,3 +350,4 @@
 - 2025-08-01T14:48:55: feat: enhance particle effects
 - 2025-08-01T15:54:20: feat: add micro-interactions
 - 2025-08-02T16:47:32: refactor: component lazy loading
+- 2025-08-02T21:17:30: style: update badge colors
