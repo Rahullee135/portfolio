@@ -353,3 +353,4 @@
 - 2025-08-02T21:17:30: style: update badge colors
 - 2025-08-03T23:29:38: fix: skill grid overflow
 - 2025-08-04T16:14:28: fix: intersection observer threshold
+- 2025-08-04T18:59:39: fix: intersection observer threshold
