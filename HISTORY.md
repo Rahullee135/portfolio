@@ -355,3 +355,4 @@
 - 2025-08-04T16:14:28: fix: intersection observer threshold
 - 2025-08-04T18:59:39: fix: intersection observer threshold
 - 2025-08-05T18:36:14: fix: glassmorphism blur on Safari
+- 2025-08-06T10:20:36: feat: add micro-interactions
