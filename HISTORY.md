@@ -357,3 +357,4 @@
 - 2025-08-05T18:36:14: fix: glassmorphism blur on Safari
 - 2025-08-06T10:20:36: feat: add micro-interactions
 - 2025-08-06T23:21:24: refactor: extract reusable hooks
+- 2025-08-07T17:08:13: refactor: component lazy loading
