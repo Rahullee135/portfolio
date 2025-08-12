@@ -360,3 +360,4 @@
 - 2025-08-07T17:08:13: refactor: component lazy loading
 - 2025-08-09T16:34:09: refactor: clean up component structure
 - 2025-08-11T13:53:03: feat: add micro-interactions
+- 2025-08-12T14:51:48: fix: navbar scroll detection
