@@ -365,3 +365,4 @@
 - 2025-08-12T22:24:45: feat: add loading state improvements
 - 2025-08-14T13:10:13: style: update badge colors
 - 2025-08-14T15:59:31: fix: timeline alignment on mobile
+- 2025-08-14T20:15:00: style: adjust spacing and typography
