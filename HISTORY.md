@@ -363,3 +363,4 @@
 - 2025-08-12T14:51:48: fix: navbar scroll detection
 - 2025-08-12T20:46:16: refactor: component lazy loading
 - 2025-08-12T22:24:45: feat: add loading state improvements
+- 2025-08-14T13:10:13: style: update badge colors
