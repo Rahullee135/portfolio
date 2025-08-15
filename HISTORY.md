@@ -367,3 +367,4 @@
 - 2025-08-14T15:59:31: fix: timeline alignment on mobile
 - 2025-08-14T20:15:00: style: adjust spacing and typography
 - 2025-08-15T11:44:58: feat: add smooth scroll behavior
+- 2025-08-15T16:35:19: style: polish dark theme
