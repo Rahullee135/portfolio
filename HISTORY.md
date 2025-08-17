@@ -369,3 +369,4 @@
 - 2025-08-15T11:44:58: feat: add smooth scroll behavior
 - 2025-08-15T16:35:19: style: polish dark theme
 - 2025-08-15T21:57:12: feat: add loading state improvements
+- 2025-08-17T21:52:58: fix: timeline alignment on mobile
