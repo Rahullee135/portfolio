@@ -372,3 +372,4 @@
 - 2025-08-17T21:52:58: fix: timeline alignment on mobile
 - 2025-08-19T09:42:49: fix: cursor tracking on scroll
 - 2025-08-19T22:15:43: refactor: clean up component structure
+- 2025-08-19T23:00:20: refactor: optimize re-renders
