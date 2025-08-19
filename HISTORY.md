@@ -370,3 +370,4 @@
 - 2025-08-15T16:35:19: style: polish dark theme
 - 2025-08-15T21:57:12: feat: add loading state improvements
 - 2025-08-17T21:52:58: fix: timeline alignment on mobile
+- 2025-08-19T09:42:49: fix: cursor tracking on scroll
