@@ -374,3 +374,4 @@
 - 2025-08-19T22:15:43: refactor: clean up component structure
 - 2025-08-19T23:00:20: refactor: optimize re-renders
 - 2025-08-20T21:12:42: style: refine gradient colors
+- 2025-08-21T13:20:02: fix: cursor tracking on scroll
