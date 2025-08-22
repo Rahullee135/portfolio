@@ -376,3 +376,4 @@
 - 2025-08-20T21:12:42: style: refine gradient colors
 - 2025-08-21T13:20:02: fix: cursor tracking on scroll
 - 2025-08-22T12:40:32: fix: navbar scroll detection
+- 2025-08-22T13:30:47: style: polish dark theme
