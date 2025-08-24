@@ -377,3 +377,4 @@
 - 2025-08-21T13:20:02: fix: cursor tracking on scroll
 - 2025-08-22T12:40:32: fix: navbar scroll detection
 - 2025-08-22T13:30:47: style: polish dark theme
+- 2025-08-24T22:42:58: chore: cleanup unused imports
