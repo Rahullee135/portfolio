@@ -379,3 +379,4 @@
 - 2025-08-22T13:30:47: style: polish dark theme
 - 2025-08-24T22:42:58: chore: cleanup unused imports
 - 2025-08-25T12:13:19: style: update color palette
+- 2025-08-25T17:40:18: fix: intersection observer threshold
