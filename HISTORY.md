@@ -382,3 +382,4 @@
 - 2025-08-25T17:40:18: fix: intersection observer threshold
 - 2025-08-26T12:29:34: style: polish dark theme
 - 2025-08-26T14:46:01: style: adjust spacing and typography
+- 2025-08-26T17:11:28: refactor: clean up component structure
