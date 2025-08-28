@@ -387,3 +387,4 @@
 - 2025-08-26T22:07:13: fix: skill grid overflow
 - 2025-08-27T11:35:28: style: refine gradient colors
 - 2025-08-27T18:11:55: fix: skill grid overflow
+- 2025-08-28T15:56:10: refactor: extract reusable hooks
