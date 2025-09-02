@@ -390,3 +390,4 @@
 - 2025-08-28T15:56:10: refactor: extract reusable hooks
 - 2025-09-01T12:24:09: style: improve code window styling
 - 2025-09-01T18:12:41: feat: enhance particle effects
+- 2025-09-02T22:30:28: fix: navbar scroll detection
