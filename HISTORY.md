@@ -392,3 +392,4 @@
 - 2025-09-01T18:12:41: feat: enhance particle effects
 - 2025-09-02T22:30:28: fix: navbar scroll detection
 - 2025-09-03T09:28:35: style: update color palette
+- 2025-09-03T20:26:45: style: improve code window styling
