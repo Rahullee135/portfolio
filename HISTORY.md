@@ -395,3 +395,4 @@
 - 2025-09-03T20:26:45: style: improve code window styling
 - 2025-09-04T17:35:50: fix: intersection observer threshold
 - 2025-09-05T09:04:44: refactor: optimize re-renders
+- 2025-09-05T17:21:21: chore: cleanup unused imports
