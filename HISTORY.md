@@ -398,3 +398,4 @@
 - 2025-09-05T17:21:21: chore: cleanup unused imports
 - 2025-09-05T19:45:53: style: update color palette
 - 2025-09-07T12:06:32: feat: add section transitions
+- 2025-09-07T12:55:43: feat: enhance particle effects
