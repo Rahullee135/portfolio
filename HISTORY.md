@@ -400,3 +400,4 @@
 - 2025-09-07T12:06:32: feat: add section transitions
 - 2025-09-07T12:55:43: feat: enhance particle effects
 - 2025-09-08T11:16:35: style: polish dark theme
+- 2025-09-09T10:59:53: fix: intersection observer threshold
