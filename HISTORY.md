@@ -401,3 +401,4 @@
 - 2025-09-07T12:55:43: feat: enhance particle effects
 - 2025-09-08T11:16:35: style: polish dark theme
 - 2025-09-09T10:59:53: fix: intersection observer threshold
+- 2025-09-10T09:17:24: feat: add smooth scroll behavior
