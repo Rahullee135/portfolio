@@ -406,3 +406,4 @@
 - 2025-09-10T21:24:42: feat: improve form validation
 - 2025-09-11T15:59:30: style: refine gradient colors
 - 2025-09-13T19:34:52: refactor: clean up component structure
+- 2025-09-14T15:04:37: fix: resolve responsive layout issue
