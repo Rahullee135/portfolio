@@ -409,3 +409,4 @@
 - 2025-09-14T15:04:37: fix: resolve responsive layout issue
 - 2025-09-15T18:19:32: refactor: component lazy loading
 - 2025-09-15T19:37:08: chore: update project metadata
+- 2025-09-15T23:57:17: fix: glassmorphism blur on Safari
