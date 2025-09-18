@@ -413,3 +413,4 @@
 - 2025-09-16T11:28:05: feat: add micro-interactions
 - 2025-09-16T14:44:20: chore: update project metadata
 - 2025-09-17T15:07:32: refactor: optimize re-renders
+- 2025-09-18T15:57:32: feat: add smooth scroll behavior
