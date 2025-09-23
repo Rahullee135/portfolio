@@ -417,3 +417,4 @@
 - 2025-09-18T18:28:15: chore: cleanup unused imports
 - 2025-09-19T13:27:19: refactor: optimize animation performance
 - 2025-09-21T16:03:10: feat: improve hover interactions
+- 2025-09-23T12:50:01: fix: cursor tracking on scroll
