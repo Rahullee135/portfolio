@@ -420,3 +420,4 @@
 - 2025-09-23T12:50:01: fix: cursor tracking on scroll
 - 2025-09-24T09:28:36: style: improve code window styling
 - 2025-09-24T11:17:41: feat: improve form validation
+- 2025-09-24T17:07:53: fix: resolve responsive layout issue
