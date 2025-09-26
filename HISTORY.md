@@ -428,3 +428,4 @@
 - 2025-09-25T23:25:07: refactor: optimize re-renders
 - 2025-09-26T14:30:43: fix: mobile menu toggle bug
 - 2025-09-26T20:57:31: fix: timeline alignment on mobile
+- 2025-09-26T22:02:09: style: polish dark theme
