@@ -430,3 +430,4 @@
 - 2025-09-26T20:57:31: fix: timeline alignment on mobile
 - 2025-09-26T22:02:09: style: polish dark theme
 - 2025-09-27T10:36:26: refactor: optimize animation performance
+- 2025-09-30T14:47:52: chore: cleanup unused imports
