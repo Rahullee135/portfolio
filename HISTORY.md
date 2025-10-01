@@ -432,3 +432,4 @@
 - 2025-09-27T10:36:26: refactor: optimize animation performance
 - 2025-09-30T14:47:52: chore: cleanup unused imports
 - 2025-09-30T19:27:19: fix: cursor tracking on scroll
+- 2025-10-01T11:09:55: style: refine gradient colors
