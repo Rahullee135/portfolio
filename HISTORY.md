@@ -440,3 +440,4 @@
 - 2025-10-03T16:59:26: style: update badge colors
 - 2025-10-03T20:46:06: chore: update project metadata
 - 2025-10-07T09:46:04: chore: update dependencies
+- 2025-10-08T18:38:11: feat: improve form validation
