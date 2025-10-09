@@ -442,3 +442,4 @@
 - 2025-10-07T09:46:04: chore: update dependencies
 - 2025-10-08T18:38:11: feat: improve form validation
 - 2025-10-08T21:13:07: chore: update dependencies
+- 2025-10-09T10:47:00: feat: add smooth scroll behavior
