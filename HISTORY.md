@@ -445,3 +445,4 @@
 - 2025-10-09T10:47:00: feat: add smooth scroll behavior
 - 2025-10-09T15:03:48: fix: navbar scroll detection
 - 2025-10-09T16:08:27: style: refine gradient colors
+- 2025-10-09T16:29:52: fix: resolve responsive layout issue
