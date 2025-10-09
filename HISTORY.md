@@ -443,3 +443,4 @@
 - 2025-10-08T18:38:11: feat: improve form validation
 - 2025-10-08T21:13:07: chore: update dependencies
 - 2025-10-09T10:47:00: feat: add smooth scroll behavior
+- 2025-10-09T15:03:48: fix: navbar scroll detection
