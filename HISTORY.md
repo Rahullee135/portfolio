@@ -446,3 +446,4 @@
 - 2025-10-09T15:03:48: fix: navbar scroll detection
 - 2025-10-09T16:08:27: style: refine gradient colors
 - 2025-10-09T16:29:52: fix: resolve responsive layout issue
+- 2025-10-10T22:56:52: feat: improve hover interactions
