@@ -450,3 +450,4 @@
 - 2025-10-12T19:20:42: refactor: extract reusable hooks
 - 2025-10-12T22:17:39: chore: update dependencies
 - 2025-10-13T13:43:37: feat: add section transitions
+- 2025-10-13T20:49:39: fix: glassmorphism blur on Safari
