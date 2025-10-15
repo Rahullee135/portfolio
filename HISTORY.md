@@ -451,3 +451,4 @@
 - 2025-10-12T22:17:39: chore: update dependencies
 - 2025-10-13T13:43:37: feat: add section transitions
 - 2025-10-13T20:49:39: fix: glassmorphism blur on Safari
+- 2025-10-15T11:47:15: fix: glassmorphism blur on Safari
