@@ -453,3 +453,4 @@
 - 2025-10-13T20:49:39: fix: glassmorphism blur on Safari
 - 2025-10-15T11:47:15: fix: glassmorphism blur on Safari
 - 2025-10-17T11:27:58: chore: cleanup unused imports
+- 2025-10-17T13:09:41: style: improve code window styling
