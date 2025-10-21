@@ -457,3 +457,4 @@
 - 2025-10-17T18:46:05: style: update color palette
 - 2025-10-18T09:56:19: refactor: component lazy loading
 - 2025-10-21T21:37:45: fix: timeline alignment on mobile
+- 2025-10-21T23:17:12: fix: resolve responsive layout issue
