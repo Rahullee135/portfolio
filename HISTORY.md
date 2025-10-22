@@ -458,3 +458,4 @@
 - 2025-10-18T09:56:19: refactor: component lazy loading
 - 2025-10-21T21:37:45: fix: timeline alignment on mobile
 - 2025-10-21T23:17:12: fix: resolve responsive layout issue
+- 2025-10-22T10:39:00: style: improve code window styling
