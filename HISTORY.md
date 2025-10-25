@@ -466,3 +466,4 @@
 - 2025-10-23T17:48:16: refactor: component lazy loading
 - 2025-10-23T23:25:19: fix: cursor tracking on scroll
 - 2025-10-24T11:48:30: fix: navbar scroll detection
+- 2025-10-25T09:43:34: style: refine gradient colors
