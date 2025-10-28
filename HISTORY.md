@@ -468,3 +468,4 @@
 - 2025-10-24T11:48:30: fix: navbar scroll detection
 - 2025-10-25T09:43:34: style: refine gradient colors
 - 2025-10-25T16:41:15: style: update color palette
+- 2025-10-28T15:34:46: feat: add loading state improvements
