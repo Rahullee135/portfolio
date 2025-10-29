@@ -469,3 +469,4 @@
 - 2025-10-25T09:43:34: style: refine gradient colors
 - 2025-10-25T16:41:15: style: update color palette
 - 2025-10-28T15:34:46: feat: add loading state improvements
+- 2025-10-29T20:57:25: feat: add smooth scroll behavior
