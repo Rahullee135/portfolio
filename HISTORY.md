@@ -475,3 +475,4 @@
 - 2025-10-30T15:59:52: style: update badge colors
 - 2025-10-30T16:17:25: refactor: extract reusable hooks
 - 2025-10-30T18:20:48: chore: update dependencies
+- 2025-10-30T21:34:17: fix: glassmorphism blur on Safari
