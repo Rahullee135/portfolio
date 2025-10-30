@@ -473,3 +473,4 @@
 - 2025-10-29T21:05:47: fix: timeline alignment on mobile
 - 2025-10-30T09:20:06: style: refine gradient colors
 - 2025-10-30T15:59:52: style: update badge colors
+- 2025-10-30T16:17:25: refactor: extract reusable hooks
