@@ -477,3 +477,4 @@
 - 2025-10-30T18:20:48: chore: update dependencies
 - 2025-10-30T21:34:17: fix: glassmorphism blur on Safari
 - 2025-11-02T09:07:11: feat: add micro-interactions
+- 2025-11-05T12:15:41: style: refine gradient colors
