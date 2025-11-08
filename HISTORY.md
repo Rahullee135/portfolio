@@ -480,3 +480,4 @@
 - 2025-11-05T12:15:41: style: refine gradient colors
 - 2025-11-05T15:23:11: fix: timeline alignment on mobile
 - 2025-11-05T17:48:04: feat: improve form validation
+- 2025-11-08T11:05:26: chore: update project metadata
