@@ -481,3 +481,4 @@
 - 2025-11-05T15:23:11: fix: timeline alignment on mobile
 - 2025-11-05T17:48:04: feat: improve form validation
 - 2025-11-08T11:05:26: chore: update project metadata
+- 2025-11-09T18:35:28: feat: add section transitions
