@@ -484,3 +484,4 @@
 - 2025-11-09T18:35:28: feat: add section transitions
 - 2025-11-10T09:32:09: feat: add micro-interactions
 - 2025-11-10T11:09:07: refactor: optimize animation performance
+- 2025-11-10T14:36:45: fix: cursor tracking on scroll
