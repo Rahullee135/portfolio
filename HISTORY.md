@@ -488,3 +488,4 @@
 - 2025-11-10T16:47:01: style: polish dark theme
 - 2025-11-10T17:16:57: feat: add loading state improvements
 - 2025-11-11T22:17:47: feat: add section transitions
+- 2025-11-12T15:52:53: refactor: component lazy loading
