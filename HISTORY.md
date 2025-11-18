@@ -493,3 +493,4 @@
 - 2025-11-15T13:38:32: feat: add loading state improvements
 - 2025-11-17T11:59:03: style: adjust spacing and typography
 - 2025-11-17T15:18:11: style: refine gradient colors
+- 2025-11-18T13:03:35: fix: intersection observer threshold
