@@ -495,3 +495,4 @@
 - 2025-11-17T15:18:11: style: refine gradient colors
 - 2025-11-18T13:03:35: fix: intersection observer threshold
 - 2025-11-20T13:17:10: style: polish dark theme
+- 2025-11-20T21:28:58: refactor: optimize animation performance
