@@ -500,3 +500,4 @@
 - 2025-11-21T11:09:28: style: update color palette
 - 2025-11-21T11:16:01: style: improve code window styling
 - 2025-11-21T20:32:56: feat: improve form validation
+- 2025-11-23T15:39:38: fix: intersection observer threshold
