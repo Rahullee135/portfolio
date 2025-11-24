@@ -501,3 +501,4 @@
 - 2025-11-21T11:16:01: style: improve code window styling
 - 2025-11-21T20:32:56: feat: improve form validation
 - 2025-11-23T15:39:38: fix: intersection observer threshold
+- 2025-11-24T14:01:24: fix: navbar scroll detection
