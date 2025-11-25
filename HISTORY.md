@@ -503,3 +503,4 @@
 - 2025-11-23T15:39:38: fix: intersection observer threshold
 - 2025-11-24T14:01:24: fix: navbar scroll detection
 - 2025-11-24T20:18:25: refactor: component lazy loading
+- 2025-11-25T13:03:49: feat: add loading state improvements
