@@ -505,3 +505,4 @@
 - 2025-11-24T20:18:25: refactor: component lazy loading
 - 2025-11-25T13:03:49: feat: add loading state improvements
 - 2025-11-26T17:37:21: feat: add micro-interactions
+- 2025-11-26T20:34:49: fix: skill grid overflow
