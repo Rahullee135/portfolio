@@ -507,3 +507,4 @@
 - 2025-11-26T17:37:21: feat: add micro-interactions
 - 2025-11-26T20:34:49: fix: skill grid overflow
 - 2025-11-27T13:07:52: fix: intersection observer threshold
+- 2025-11-27T20:37:24: refactor: clean up component structure
