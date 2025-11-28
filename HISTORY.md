@@ -508,3 +508,4 @@
 - 2025-11-26T20:34:49: fix: skill grid overflow
 - 2025-11-27T13:07:52: fix: intersection observer threshold
 - 2025-11-27T20:37:24: refactor: clean up component structure
+- 2025-11-28T18:40:14: fix: intersection observer threshold
