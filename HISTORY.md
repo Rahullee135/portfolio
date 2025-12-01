@@ -510,3 +510,4 @@
 - 2025-11-27T20:37:24: refactor: clean up component structure
 - 2025-11-28T18:40:14: fix: intersection observer threshold
 - 2025-11-29T09:15:30: feat: add micro-interactions
+- 2025-12-01T12:54:04: chore: cleanup unused imports
