@@ -512,3 +512,4 @@
 - 2025-11-29T09:15:30: feat: add micro-interactions
 - 2025-12-01T12:54:04: chore: cleanup unused imports
 - 2025-12-01T16:32:31: fix: timeline alignment on mobile
+- 2025-12-01T18:05:14: feat: improve form validation
