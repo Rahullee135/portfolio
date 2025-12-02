@@ -513,3 +513,4 @@
 - 2025-12-01T12:54:04: chore: cleanup unused imports
 - 2025-12-01T16:32:31: fix: timeline alignment on mobile
 - 2025-12-01T18:05:14: feat: improve form validation
+- 2025-12-02T12:02:46: fix: glassmorphism blur on Safari
