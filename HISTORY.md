@@ -516,3 +516,4 @@
 - 2025-12-02T12:02:46: fix: glassmorphism blur on Safari
 - 2025-12-02T14:12:40: fix: mobile menu toggle bug
 - 2025-12-03T11:27:24: refactor: component lazy loading
+- 2025-12-03T20:10:25: style: refine gradient colors
