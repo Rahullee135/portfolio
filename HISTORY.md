@@ -515,3 +515,4 @@
 - 2025-12-01T18:05:14: feat: improve form validation
 - 2025-12-02T12:02:46: fix: glassmorphism blur on Safari
 - 2025-12-02T14:12:40: fix: mobile menu toggle bug
+- 2025-12-03T11:27:24: refactor: component lazy loading
