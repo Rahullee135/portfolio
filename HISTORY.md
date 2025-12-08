@@ -520,3 +520,4 @@
 - 2025-12-04T09:10:44: style: adjust spacing and typography
 - 2025-12-04T21:50:08: style: update color palette
 - 2025-12-05T23:49:14: feat: add smooth scroll behavior
+- 2025-12-08T13:34:36: refactor: extract reusable hooks
