@@ -524,3 +524,4 @@
 - 2025-12-09T09:22:03: fix: intersection observer threshold
 - 2025-12-10T11:42:09: fix: resolve responsive layout issue
 - 2025-12-10T12:46:03: chore: cleanup unused imports
+- 2025-12-10T14:09:58: style: update badge colors
