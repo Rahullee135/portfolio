@@ -522,3 +522,4 @@
 - 2025-12-05T23:49:14: feat: add smooth scroll behavior
 - 2025-12-08T13:34:36: refactor: extract reusable hooks
 - 2025-12-09T09:22:03: fix: intersection observer threshold
+- 2025-12-10T11:42:09: fix: resolve responsive layout issue
