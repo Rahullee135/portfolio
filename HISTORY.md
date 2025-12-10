@@ -526,3 +526,4 @@
 - 2025-12-10T12:46:03: chore: cleanup unused imports
 - 2025-12-10T14:09:58: style: update badge colors
 - 2025-12-10T16:33:21: style: update badge colors
+- 2025-12-10T22:35:30: refactor: extract reusable hooks
