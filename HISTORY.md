@@ -529,3 +529,4 @@
 - 2025-12-10T22:35:30: refactor: extract reusable hooks
 - 2025-12-12T22:36:50: chore: cleanup unused imports
 - 2025-12-13T13:17:37: feat: enhance particle effects
+- 2025-12-13T13:58:44: style: update color palette
