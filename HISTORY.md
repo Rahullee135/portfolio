@@ -532,3 +532,4 @@
 - 2025-12-13T13:58:44: style: update color palette
 - 2025-12-15T16:43:09: fix: timeline alignment on mobile
 - 2025-12-15T18:15:12: feat: add loading state improvements
+- 2025-12-15T19:28:32: refactor: component lazy loading
