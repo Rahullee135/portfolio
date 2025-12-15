@@ -530,3 +530,4 @@
 - 2025-12-12T22:36:50: chore: cleanup unused imports
 - 2025-12-13T13:17:37: feat: enhance particle effects
 - 2025-12-13T13:58:44: style: update color palette
+- 2025-12-15T16:43:09: fix: timeline alignment on mobile
