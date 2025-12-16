@@ -534,3 +534,4 @@
 - 2025-12-15T18:15:12: feat: add loading state improvements
 - 2025-12-15T19:28:32: refactor: component lazy loading
 - 2025-12-15T22:06:38: refactor: optimize re-renders
+- 2025-12-16T15:41:16: fix: contact form reset
