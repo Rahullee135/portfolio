@@ -536,3 +536,4 @@
 - 2025-12-15T22:06:38: refactor: optimize re-renders
 - 2025-12-16T15:41:16: fix: contact form reset
 - 2025-12-16T18:57:44: chore: cleanup unused imports
+- 2025-12-19T11:35:22: fix: cursor tracking on scroll
