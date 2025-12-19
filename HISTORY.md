@@ -537,3 +537,4 @@
 - 2025-12-16T15:41:16: fix: contact form reset
 - 2025-12-16T18:57:44: chore: cleanup unused imports
 - 2025-12-19T11:35:22: fix: cursor tracking on scroll
+- 2025-12-19T12:42:34: fix: intersection observer threshold
