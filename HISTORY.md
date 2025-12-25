@@ -542,3 +542,4 @@
 - 2025-12-23T12:50:20: refactor: optimize animation performance
 - 2025-12-23T18:47:08: fix: navbar scroll detection
 - 2025-12-24T17:56:20: refactor: component lazy loading
+- 2025-12-25T20:23:56: feat: enhance particle effects
