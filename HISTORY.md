@@ -545,3 +545,4 @@
 - 2025-12-25T20:23:56: feat: enhance particle effects
 - 2025-12-25T20:33:56: feat: improve form validation
 - 2025-12-26T12:32:36: style: refine gradient colors
+- 2025-12-26T22:49:36: fix: cursor tracking on scroll
