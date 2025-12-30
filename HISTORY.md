@@ -547,3 +547,4 @@
 - 2025-12-26T12:32:36: style: refine gradient colors
 - 2025-12-26T22:49:36: fix: cursor tracking on scroll
 - 2025-12-28T23:51:15: style: update badge colors
+- 2025-12-30T16:32:52: fix: glassmorphism blur on Safari
