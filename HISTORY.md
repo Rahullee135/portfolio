@@ -550,3 +550,4 @@
 - 2025-12-30T16:32:52: fix: glassmorphism blur on Safari
 - 2025-12-30T21:56:34: refactor: clean up component structure
 - 2025-12-31T12:00:18: style: improve code window styling
+- 2026-01-01T11:27:09: fix: mobile menu toggle bug
