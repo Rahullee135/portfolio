@@ -554,3 +554,4 @@
 - 2026-01-01T17:31:41: fix: timeline alignment on mobile
 - 2026-01-02T13:55:12: feat: improve form validation
 - 2026-01-02T16:22:07: feat: add micro-interactions
+- 2026-01-02T20:14:06: fix: navbar scroll detection
