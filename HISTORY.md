@@ -552,3 +552,4 @@
 - 2025-12-31T12:00:18: style: improve code window styling
 - 2026-01-01T11:27:09: fix: mobile menu toggle bug
 - 2026-01-01T17:31:41: fix: timeline alignment on mobile
+- 2026-01-02T13:55:12: feat: improve form validation
