@@ -557,3 +557,4 @@
 - 2026-01-02T20:14:06: fix: navbar scroll detection
 - 2026-01-02T23:50:39: style: adjust spacing and typography
 - 2026-01-04T10:07:12: fix: skill grid overflow
+- 2026-01-05T11:23:35: fix: contact form reset
