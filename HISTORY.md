@@ -558,3 +558,4 @@
 - 2026-01-02T23:50:39: style: adjust spacing and typography
 - 2026-01-04T10:07:12: fix: skill grid overflow
 - 2026-01-05T11:23:35: fix: contact form reset
+- 2026-01-06T14:20:14: chore: update dependencies
