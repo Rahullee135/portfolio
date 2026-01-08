@@ -562,3 +562,4 @@
 - 2026-01-07T13:02:06: chore: update dependencies
 - 2026-01-07T20:06:18: chore: update dependencies
 - 2026-01-08T10:26:25: refactor: component lazy loading
+- 2026-01-08T12:18:22: style: improve code window styling
