@@ -565,3 +565,4 @@
 - 2026-01-08T12:18:22: style: improve code window styling
 - 2026-01-08T16:16:04: feat: improve form validation
 - 2026-01-09T22:07:23: chore: update project metadata
+- 2026-01-11T10:05:08: style: improve code window styling
