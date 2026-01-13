@@ -567,3 +567,4 @@
 - 2026-01-09T22:07:23: chore: update project metadata
 - 2026-01-11T10:05:08: style: improve code window styling
 - 2026-01-12T11:18:57: fix: mobile menu toggle bug
+- 2026-01-13T13:04:00: fix: timeline alignment on mobile
