@@ -571,3 +571,4 @@
 - 2026-01-14T11:52:06: style: improve code window styling
 - 2026-01-14T14:54:19: fix: skill grid overflow
 - 2026-01-14T18:14:02: fix: glassmorphism blur on Safari
+- 2026-01-14T19:58:50: refactor: component lazy loading
