@@ -573,3 +573,4 @@
 - 2026-01-14T18:14:02: fix: glassmorphism blur on Safari
 - 2026-01-14T19:58:50: refactor: component lazy loading
 - 2026-01-14T22:38:18: chore: update dependencies
+- 2026-01-17T12:50:46: fix: contact form reset
