@@ -575,3 +575,4 @@
 - 2026-01-14T22:38:18: chore: update dependencies
 - 2026-01-17T12:50:46: fix: contact form reset
 - 2026-01-17T14:41:58: fix: cursor tracking on scroll
+- 2026-01-19T09:50:24: feat: add loading state improvements
