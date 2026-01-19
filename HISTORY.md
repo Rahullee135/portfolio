@@ -576,3 +576,4 @@
 - 2026-01-17T12:50:46: fix: contact form reset
 - 2026-01-17T14:41:58: fix: cursor tracking on scroll
 - 2026-01-19T09:50:24: feat: add loading state improvements
+- 2026-01-19T15:43:56: feat: add smooth scroll behavior
