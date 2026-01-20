@@ -578,3 +578,4 @@
 - 2026-01-19T09:50:24: feat: add loading state improvements
 - 2026-01-19T15:43:56: feat: add smooth scroll behavior
 - 2026-01-19T23:47:28: feat: add section transitions
+- 2026-01-20T21:58:22: chore: update dependencies
