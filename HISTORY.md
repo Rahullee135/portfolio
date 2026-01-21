@@ -581,3 +581,4 @@
 - 2026-01-20T21:58:22: chore: update dependencies
 - 2026-01-20T23:00:09: refactor: extract reusable hooks
 - 2026-01-21T09:33:20: fix: skill grid overflow
+- 2026-01-21T21:11:02: feat: add section transitions
