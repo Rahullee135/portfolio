@@ -585,3 +585,4 @@
 - 2026-01-22T13:54:55: feat: add section transitions
 - 2026-01-23T09:46:11: chore: update project metadata
 - 2026-01-23T21:43:12: refactor: optimize re-renders
+- 2026-01-23T22:02:31: fix: skill grid overflow
