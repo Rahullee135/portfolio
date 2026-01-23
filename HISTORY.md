@@ -583,3 +583,4 @@
 - 2026-01-21T09:33:20: fix: skill grid overflow
 - 2026-01-21T21:11:02: feat: add section transitions
 - 2026-01-22T13:54:55: feat: add section transitions
+- 2026-01-23T09:46:11: chore: update project metadata
