@@ -587,3 +587,4 @@
 - 2026-01-23T21:43:12: refactor: optimize re-renders
 - 2026-01-23T22:02:31: fix: skill grid overflow
 - 2026-01-24T18:34:41: style: improve code window styling
+- 2026-01-26T13:11:17: feat: add micro-interactions
