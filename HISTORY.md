@@ -589,3 +589,4 @@
 - 2026-01-24T18:34:41: style: improve code window styling
 - 2026-01-26T13:11:17: feat: add micro-interactions
 - 2026-01-28T10:36:03: refactor: clean up component structure
+- 2026-01-28T10:39:31: chore: update dependencies
