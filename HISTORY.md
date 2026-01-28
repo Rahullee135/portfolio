@@ -591,3 +591,4 @@
 - 2026-01-28T10:36:03: refactor: clean up component structure
 - 2026-01-28T10:39:31: chore: update dependencies
 - 2026-01-28T13:26:53: chore: cleanup unused imports
+- 2026-01-28T21:31:58: style: improve code window styling
