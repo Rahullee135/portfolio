@@ -592,3 +592,4 @@
 - 2026-01-28T10:39:31: chore: update dependencies
 - 2026-01-28T13:26:53: chore: cleanup unused imports
 - 2026-01-28T21:31:58: style: improve code window styling
+- 2026-01-30T23:55:38: style: refine gradient colors
