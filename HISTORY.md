@@ -597,3 +597,4 @@
 - 2026-02-01T14:54:58: style: improve code window styling
 - 2026-02-02T09:17:52: feat: add micro-interactions
 - 2026-02-02T10:17:02: style: improve code window styling
+- 2026-02-03T11:25:39: fix: intersection observer threshold
