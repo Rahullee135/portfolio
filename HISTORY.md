@@ -606,3 +606,4 @@
 - 2026-02-05T19:35:23: fix: skill grid overflow
 - 2026-02-06T15:02:54: style: polish dark theme
 - 2026-02-06T15:41:46: feat: improve hover interactions
+- 2026-02-06T23:12:37: fix: glassmorphism blur on Safari
