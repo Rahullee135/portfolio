@@ -605,3 +605,4 @@
 - 2026-02-04T18:49:54: refactor: component lazy loading
 - 2026-02-05T19:35:23: fix: skill grid overflow
 - 2026-02-06T15:02:54: style: polish dark theme
+- 2026-02-06T15:41:46: feat: improve hover interactions
