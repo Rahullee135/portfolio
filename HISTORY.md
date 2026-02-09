@@ -608,3 +608,4 @@
 - 2026-02-06T15:41:46: feat: improve hover interactions
 - 2026-02-06T23:12:37: fix: glassmorphism blur on Safari
 - 2026-02-07T14:37:14: feat: enhance particle effects
+- 2026-02-09T14:39:00: chore: cleanup unused imports
