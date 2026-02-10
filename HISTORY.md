@@ -611,3 +611,4 @@
 - 2026-02-09T14:39:00: chore: cleanup unused imports
 - 2026-02-09T22:50:38: refactor: component lazy loading
 - 2026-02-10T12:12:56: feat: improve hover interactions
+- 2026-02-10T18:34:40: fix: cursor tracking on scroll
