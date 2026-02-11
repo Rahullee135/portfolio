@@ -613,3 +613,4 @@
 - 2026-02-10T12:12:56: feat: improve hover interactions
 - 2026-02-10T18:34:40: fix: cursor tracking on scroll
 - 2026-02-11T10:39:11: fix: intersection observer threshold
+- 2026-02-11T12:27:19: feat: add section transitions
