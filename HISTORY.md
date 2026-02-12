@@ -614,3 +614,4 @@
 - 2026-02-10T18:34:40: fix: cursor tracking on scroll
 - 2026-02-11T10:39:11: fix: intersection observer threshold
 - 2026-02-11T12:27:19: feat: add section transitions
+- 2026-02-12T23:42:01: fix: mobile menu toggle bug
