@@ -616,3 +616,4 @@
 - 2026-02-11T12:27:19: feat: add section transitions
 - 2026-02-12T23:42:01: fix: mobile menu toggle bug
 - 2026-02-14T16:36:40: style: improve code window styling
+- 2026-02-14T18:39:52: fix: glassmorphism blur on Safari
