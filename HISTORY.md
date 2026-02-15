@@ -618,3 +618,4 @@
 - 2026-02-14T16:36:40: style: improve code window styling
 - 2026-02-14T18:39:52: fix: glassmorphism blur on Safari
 - 2026-02-15T12:15:38: feat: improve form validation
+- 2026-02-15T12:49:59: style: adjust spacing and typography
