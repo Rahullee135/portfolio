@@ -617,3 +617,4 @@
 - 2026-02-12T23:42:01: fix: mobile menu toggle bug
 - 2026-02-14T16:36:40: style: improve code window styling
 - 2026-02-14T18:39:52: fix: glassmorphism blur on Safari
+- 2026-02-15T12:15:38: feat: improve form validation
