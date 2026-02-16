@@ -620,3 +620,4 @@
 - 2026-02-15T12:15:38: feat: improve form validation
 - 2026-02-15T12:49:59: style: adjust spacing and typography
 - 2026-02-16T10:51:58: fix: timeline alignment on mobile
+- 2026-02-16T15:46:36: feat: improve hover interactions
