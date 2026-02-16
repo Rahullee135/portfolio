@@ -619,3 +619,4 @@
 - 2026-02-14T18:39:52: fix: glassmorphism blur on Safari
 - 2026-02-15T12:15:38: feat: improve form validation
 - 2026-02-15T12:49:59: style: adjust spacing and typography
+- 2026-02-16T10:51:58: fix: timeline alignment on mobile
