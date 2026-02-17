@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import {
-  FaReact, FaNodeJs, FaAws, FaDocker, FaGitAlt, FaPython,
+  FaReact, FaNodeJs, FaAws, FaDocker, FaGitAlt,
   FaSalesforce, FaHtml5, FaCss3Alt
 } from 'react-icons/fa';
 import {
@@ -37,7 +37,6 @@ const skillCategories = [
       { name: 'PostgreSQL', icon: <SiPostgresql />, color: '#4169E1' },
       { name: 'Redis', icon: <SiRedis />, color: '#DC382D' },
       { name: 'MySQL', icon: <SiMysql />, color: '#4479A1' },
-      { name: 'Python', icon: <FaPython />, color: '#3776AB' },
       { name: 'Go', icon: <SiGo />, color: '#00ADD8' },
     ],
   },
