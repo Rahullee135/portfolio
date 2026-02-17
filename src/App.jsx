@@ -8,6 +8,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import ScrollToTop from './components/ScrollToTop';
 import Loader from './components/Loader';
 import ParticleBackground from './components/ParticleBackground';
 import './styles/App.css';
@@ -34,6 +35,7 @@ function App() {
       <Projects />
       <Contact />
       <Footer />
+      <ScrollToTop />
     </div>
   );
 }

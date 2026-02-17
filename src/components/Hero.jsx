@@ -65,6 +65,11 @@ const Hero = () => {
               Let's Talk
             </button>
           </Link>
+          <a href="/portfolio/Rahul_Resume.pdf" download>
+            <button className="btn btn-outline hoverable">
+              <HiDownload className="btn-icon" /> Resume
+            </button>
+          </a>
         </motion.div>
 
         <motion.div
@@ -110,7 +115,8 @@ const Hero = () => {
       "Terraform"]
   },
   passion: "Building things
-    that matter 🚀"
+    that matter 🚀",
+  available: true
 };`}
               </code>
             </pre>

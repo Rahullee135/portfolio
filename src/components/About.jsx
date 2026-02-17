@@ -48,6 +48,26 @@ const About = () => {
             When I'm not coding, you'll find me exploring new technologies, contributing to
             open-source, or debugging at 2 AM when everything suddenly makes sense.
           </p>
+
+          <div className="about-stats">
+            {[
+              { number: '4+', label: 'Years Experience' },
+              { number: '20+', label: 'Projects Delivered' },
+              { number: '10+', label: 'Technologies' },
+              { number: '3', label: 'Companies' },
+            ].map((stat, i) => (
+              <motion.div
+                key={stat.label}
+                className="stat-item"
+                initial={{ opacity: 0, y: 20 }}
+                animate={inView ? { opacity: 1, y: 0 } : {}}
+                transition={{ duration: 0.4, delay: 0.5 + i * 0.1 }}
+              >
+                <span className="stat-number gradient-text">{stat.number}</span>
+                <span className="stat-label">{stat.label}</span>
+              </motion.div>
+            ))}
+          </div>
         </motion.div>
 
         <div className="about-cards">
