@@ -623,3 +623,4 @@
 - 2026-02-16T15:46:36: feat: improve hover interactions
 - 2026-02-16T19:56:36: style: update color palette
 - 2026-02-16T23:14:18: feat: add section transitions
+- 2026-02-17T10:17:26: refactor: extract reusable hooks
