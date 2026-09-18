@@ -6,11 +6,13 @@ import About from './components/About';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
+import Github from './components/Github';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
 import Loader from './components/Loader';
 import ParticleBackground from './components/ParticleBackground';
+import AuroraBackground from './components/AuroraBackground';
 import './styles/App.css';
 
 function App() {
@@ -26,6 +28,7 @@ function App() {
   return (
     <div className="app">
       <CustomCursor />
+      <AuroraBackground />
       <ParticleBackground />
       <Navbar />
       <Hero />
@@ -33,6 +36,7 @@ function App() {
       <Skills />
       <Experience />
       <Projects />
+      <Github />
       <Contact />
       <Footer />
       <ScrollToTop />

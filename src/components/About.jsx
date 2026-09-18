@@ -34,7 +34,7 @@ const About = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <p>
-            I'm a <strong>Full Stack Developer</strong> with over 4 years of hands-on experience
+            I'm a <strong>Full Stack Developer</strong> with over 4.5 years of hands-on experience
             building production-ready web applications. I specialize in the <strong>MERN stack</strong> and
             have a proven track record of delivering complex enterprise solutions.
           </p>
@@ -51,7 +51,7 @@ const About = () => {
 
           <div className="about-stats">
             {[
-              { number: '4+', label: 'Years Experience' },
+              { number: '4.5+', label: 'Years Experience' },
               { number: '20+', label: 'Projects Delivered' },
               { number: '10+', label: 'Technologies' },
               { number: '3', label: 'Companies' },

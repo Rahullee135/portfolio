@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Link } from 'react-scroll';
 import { HiMenuAlt3, HiX } from 'react-icons/hi';
 
-const navItems = ['About', 'Skills', 'Experience', 'Projects', 'Contact'];
+const navItems = ['About', 'Skills', 'Experience', 'Projects', 'Github', 'Contact'];
 
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);

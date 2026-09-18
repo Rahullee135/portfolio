@@ -64,6 +64,62 @@ body {
   pointer-events: none;
 }
 
+/* ===== Aurora Glass Background ===== */
+.aurora {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.aurora-blob {
+  position: absolute;
+  width: 46vw;
+  height: 46vw;
+  min-width: 320px;
+  min-height: 320px;
+  border-radius: 50%;
+  filter: blur(90px);
+  opacity: 0.28;
+  mix-blend-mode: screen;
+  animation: auroraDrift 24s ease-in-out infinite;
+  will-change: transform;
+}
+
+.aurora-blob.one {
+  background: radial-gradient(circle, #58A6FF, transparent 70%);
+  top: -12%;
+  left: -10%;
+}
+
+.aurora-blob.two {
+  background: radial-gradient(circle, #7C3AED, transparent 70%);
+  top: 25%;
+  right: -14%;
+  animation-delay: -8s;
+}
+
+.aurora-blob.three {
+  background: radial-gradient(circle, #EC4899, transparent 70%);
+  bottom: -16%;
+  left: 22%;
+  animation-delay: -16s;
+}
+
+@keyframes auroraDrift {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(6%, 8%) scale(1.15); }
+  66% { transform: translate(-8%, -4%) scale(0.9); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aurora-blob { animation: none; }
+}
+
 /* ===== Loader ===== */
 .loader {
   position: fixed;
@@ -104,6 +160,42 @@ body {
   -webkit-backdrop-filter: blur(20px);
   border: 1px solid var(--glass-border);
   border-radius: 16px;
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06), 0 0 0 rgba(0, 0, 0, 0);
+  transition: box-shadow 0.4s ease, border-color 0.4s ease;
+}
+
+.glass::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(115deg, transparent 30%, rgba(255, 255, 255, 0.09) 48%, transparent 66%);
+  transform: translateX(-130%);
+  transition: transform 0.9s ease;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.glass:hover::after { transform: translateX(130%); }
+
+.glass:hover {
+  border-color: var(--glass-border);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 20px 50px rgba(0, 0, 0, 0.35);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .glass::after { display: none; }
+}
+
+.timeline-card, .skill-category, .github-card, .github-trophies, .contact-form {
+  transition: transform 0.4s ease, box-shadow 0.4s ease, border-color 0.4s ease;
+}
+
+.timeline-card:hover, .skill-category:hover, .github-card:hover, .github-trophies:hover, .contact-form:hover {
+  transform: translateY(-6px);
+  border-color: rgba(88, 166, 255, 0.25);
 }
 
 /* ===== Gradient Text ===== */
@@ -228,6 +320,12 @@ body {
   font-size: 2.5rem;
   font-weight: 700;
   letter-spacing: -0.02em;
+}
+
+.section-subtitle {
+  margin-top: 12px;
+  color: var(--text-secondary);
+  font-size: 1rem;
 }
 
 /* ===== Hero ===== */
@@ -683,6 +781,93 @@ body {
 
 @media (max-width: 600px) {
   .projects-grid { grid-template-columns: 1fr; }
+}
+
+/* ===== GitHub Activity ===== */
+.github-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 40px;
+}
+
+.github-badge {
+  height: 32px;
+  border-radius: 6px;
+  transition: transform 0.3s ease;
+}
+
+.github-badge:hover { transform: translateY(-3px); }
+
+.github-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.github-card {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-x: auto;
+}
+
+.github-img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.github-facts {
+  justify-content: flex-start;
+  padding: 28px 32px;
+}
+
+.github-facts-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  width: 100%;
+}
+
+.github-facts-list li {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.github-facts-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  border-radius: 10px;
+  background: rgba(88, 166, 255, 0.1);
+  color: var(--accent);
+  font-size: 1rem;
+}
+
+.github-trophies {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+  margin-bottom: 32px;
+}
+
+.github-trophy-img { max-width: 100%; }
+
+.github-cta { display: flex; justify-content: center; }
+
+@media (max-width: 968px) {
+  .github-grid { grid-template-columns: 1fr; }
 }
 
 /* ===== Contact ===== */

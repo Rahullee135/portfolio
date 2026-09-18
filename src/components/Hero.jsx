@@ -43,7 +43,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.8 }}
         >
-          A passionate developer with 4+ years of experience crafting scalable,
+          A passionate developer with 4.5+ years of experience crafting scalable,
           production-ready applications using React, Node.js, and MongoDB.
           Turning complex problems into elegant solutions.
         </motion.p>
