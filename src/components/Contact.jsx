@@ -59,7 +59,7 @@ const Contact = () => {
             <a href="https://github.com/Rahullee135" target="_blank" rel="noreferrer" className="contact-social hoverable">
               <FaGithub size={24} />
             </a>
-            <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer" className="contact-social hoverable">
+            <a href="https://www.linkedin.com/in/rahul-prasad-65b993167/" target="_blank" rel="noreferrer" className="contact-social hoverable">
               <FaLinkedin size={24} />
             </a>
           </div>

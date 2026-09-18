@@ -1,6 +1,39 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
+
+const flagship = {
+  title: 'APTS — Unified Workflow Platform',
+  client: 'Private-sector bank engagement',
+  tagline: 'A single multi-tenant platform running three enterprise banking workflows — architected and built end to end, solo, across backend and frontend.',
+  description:
+    "Banks tracked board action points, content approvals, and pricing sign-offs across spreadsheets and email threads with no audit trail, no ownership clarity, and no SLA escalation. I architected and built a unified workflow platform that replaces all three with one system — a shared authentication, RBAC, and notification core underneath three isolated tenant modules.",
+  modules: [
+    {
+      name: 'APTS — Action Point Tracking',
+      desc: 'Board & committee action points with a two-track SLA reminder engine (creation-based and target-date-based) escalating SPOC → MANCOM → MD & CEO, plus system-generated memorandums.',
+    },
+    {
+      name: 'CWM — Centralized Content Workflow',
+      desc: 'Content request & approval across SMS, WhatsApp, Email, and Letters — routed through Brand SPOC → Brand Supervisor → SDG Process Head with a structured clarification/exception cycle.',
+    },
+    {
+      name: 'WBG — Pricing & Deferral Approvals',
+      desc: 'Multi-step pricing and deferral approval workflow with an hourly SLA cron job that automatically discards expired requests and logs every workflow transition.',
+    },
+  ],
+  stats: [
+    { value: '93 / 99', label: 'Backend / frontend tests passing' },
+    { value: '0', label: 'ESLint errors — down from 187' },
+    { value: '3', label: 'Isolated tenant modules, one platform' },
+    { value: '500+', label: 'Concurrent-user design target' },
+  ],
+  stack: {
+    Frontend: ['React 19', 'TypeScript', 'Vite', 'TanStack Query', 'Zustand', 'Tailwind CSS', 'ApexCharts'],
+    Backend: ['Node.js', 'Express 5', 'PostgreSQL / Oracle', 'Redis', 'Solace MQ', 'JWT + RBAC'],
+    Platform: ['OpenShift', 'Docker', 'Swagger / OpenAPI', 'Winston logging'],
+  },
+};
 
 const projects = [
   {
@@ -48,6 +81,11 @@ const projects = [
   },
 ];
 
+const fadeUp = {
+  hidden: { opacity: 0, y: 40 },
+  show: { opacity: 1, y: 0, transition: { duration: 0.6 } },
+};
+
 const Projects = () => {
   const [ref, inView] = useInView({ threshold: 0.1, triggerOnce: true });
 
@@ -65,14 +103,104 @@ const Projects = () => {
         </h2>
       </motion.div>
 
+      <div className="flagship">
+        <div className="flagship-sticky">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, amount: 0.6 }}
+            transition={{ duration: 0.6 }}
+          >
+            <span className="section-tag">{'// flagship project'}</span>
+            <h3 className="flagship-title">{flagship.title}</h3>
+            <span className="flagship-client">{flagship.client}</span>
+            <p className="flagship-tagline">{flagship.tagline}</p>
+            <span className="tech-tag flagship-badge">Architected solo, backend + frontend</span>
+          </motion.div>
+        </div>
+
+        <div className="flagship-scroll">
+          <motion.div
+            className="flagship-block glass hoverable"
+            variants={fadeUp}
+            initial="hidden"
+            whileInView="show"
+            viewport={{ once: true, amount: 0.4 }}
+          >
+            <h4>What I built</h4>
+            <p>{flagship.description}</p>
+          </motion.div>
+
+          {flagship.modules.map((m) => (
+            <motion.div
+              key={m.name}
+              className="flagship-block glass hoverable"
+              variants={fadeUp}
+              initial="hidden"
+              whileInView="show"
+              viewport={{ once: true, amount: 0.4 }}
+            >
+              <h4>{m.name}</h4>
+              <p>{m.desc}</p>
+            </motion.div>
+          ))}
+
+          <motion.div
+            className="flagship-stats"
+            variants={fadeUp}
+            initial="hidden"
+            whileInView="show"
+            viewport={{ once: true, amount: 0.4 }}
+          >
+            {flagship.stats.map((s) => (
+              <div key={s.label} className="flagship-stat">
+                <span className="flagship-stat-value gradient-text">{s.value}</span>
+                <span className="flagship-stat-label">{s.label}</span>
+              </div>
+            ))}
+          </motion.div>
+
+          <motion.div
+            className="flagship-block glass hoverable"
+            variants={fadeUp}
+            initial="hidden"
+            whileInView="show"
+            viewport={{ once: true, amount: 0.4 }}
+          >
+            <h4>Tech stack</h4>
+            {Object.entries(flagship.stack).map(([group, items]) => (
+              <div key={group} className="flagship-stack-row">
+                <span className="flagship-stack-label">{group}</span>
+                <div className="flagship-tech">
+                  {items.map((t) => (
+                    <span key={t} className="tech-tag">{t}</span>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </motion.div>
+        </div>
+      </div>
+
+      <motion.h3
+        className="projects-subheading"
+        initial={{ opacity: 0, y: 20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, amount: 0.6 }}
+        transition={{ duration: 0.6 }}
+      >
+        More things I've <span className="gradient-text">shipped</span>
+      </motion.h3>
+
       <div className="projects-grid">
         {projects.map((project, i) => (
           <motion.div
             key={project.title}
             className="project-card glass hoverable"
             initial={{ opacity: 0, y: 40 }}
-            animate={inView ? { opacity: 1, y: 0 } : {}}
-            transition={{ duration: 0.5, delay: i * 0.1 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, amount: 0.3 }}
+            transition={{ duration: 0.5, delay: (i % 3) * 0.1 }}
             whileHover={{ y: -10 }}
             style={{ '--accent': project.color }}
           >

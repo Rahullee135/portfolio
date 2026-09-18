@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { FaCode, FaServer, FaCloud, FaRocket } from 'react-icons/fa';
+import Reveal from './Reveal';
 
 const About = () => {
   const [ref, inView] = useInView({ threshold: 0.2, triggerOnce: true });
@@ -8,7 +9,7 @@ const About = () => {
   const cards = [
     { icon: <FaCode />, title: 'Frontend', desc: 'Pixel-perfect UIs with React, TypeScript & modern CSS' },
     { icon: <FaServer />, title: 'Backend', desc: 'Scalable APIs with Node.js, Express & MongoDB' },
-    { icon: <FaCloud />, title: 'Cloud', desc: 'Deployments on Azure, GCP with Terraform IaC' },
+    { icon: <FaCloud />, title: 'Cloud', desc: 'Enterprise deployments on OpenShift, Azure & GCP' },
     { icon: <FaRocket />, title: 'Full Stack', desc: 'End-to-end product development from zero to production' },
   ];
 
@@ -26,6 +27,13 @@ const About = () => {
         </h2>
       </motion.div>
 
+      <div className="about-statement">
+        <h3 className="statement-text">
+          <Reveal text="I architect systems that banks, hospitals, and startups actually" />{' '}
+          <Reveal text="trust in production." className="gradient-text" />
+        </h3>
+      </div>
+
       <div className="about-content">
         <motion.div
           className="about-text"
@@ -36,13 +44,14 @@ const About = () => {
           <p>
             I'm a <strong>Full Stack Developer</strong> with over 4.5 years of hands-on experience
             building production-ready web applications. I specialize in the <strong>MERN stack</strong> and
-            have a proven track record of delivering complex enterprise solutions.
+            have a proven track record of architecting complex enterprise platforms end to end.
           </p>
           <p>
             From crafting responsive UIs to architecting robust backend systems, I thrive on
-            solving challenging problems. I've independently built frontend solutions from scratch,
-            integrated complex third-party systems like Salesforce, Zendesk, and Kibo OMS,
-            and shipped desktop applications using Go and React.
+            solving challenging problems. I independently architected and built a multi-tenant
+            enterprise workflow platform for a bank from the ground up, integrated complex
+            third-party systems like Salesforce, Zendesk, and Kibo OMS, and shipped desktop
+            applications using Go and React.
           </p>
           <p>
             When I'm not coding, you'll find me exploring new technologies, contributing to

@@ -1,17 +1,20 @@
-import { motion } from 'framer-motion';
+import { useRef } from 'react';
+import { motion, useScroll } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 
 const experiences = [
   {
     role: 'Software Developer',
     period: 'May 2025 – Present',
-    description: 'Leading frontend architecture for a healthcare tariff validation system. Building production-ready modules for document validation, analytics dashboards, and real-time QC tracking.',
-    tech: ['React', 'TypeScript', 'Zustand', 'Ant Design', 'Plotly.js', 'REST APIs'],
+    description:
+      "Architecting and building a unified multi-tenant workflow platform for a leading private-sector bank — spanning board-level action-point tracking (APTS), centralized content request & approval (CWM), and pricing/deferral approvals (WBG) — end to end across backend and frontend.",
+    tech: ['React 19', 'TypeScript', 'Node.js', 'Express 5', 'PostgreSQL / Oracle', 'Zustand', 'React Query', 'Redis', 'Solace MQ'],
     highlights: [
-      'Built the entire frontend solution independently from scratch',
-      'Designed critical modules: QC Dashboard, Document Upload, Report Viewer',
-      'Integrated complex REST APIs with robust error handling using Zustand',
-      'Implemented token-based authentication with role-based access control',
+      'Architected both codebases from a flat structure into a scalable platform / shared / tenants layout — 56 backend + 148 frontend source files across 3 isolated tenant modules',
+      'Took backend test coverage from 45 → 93 tests (14 suites) and frontend from 0 → 99 tests, while cutting ESLint errors from 187 → 0',
+      'Optimized login/dashboard queries with a shared repository (single UNION query + Promise.all) and batch inserts, replacing N sequential round-trips',
+      'Code-split all 34+ frontend routes with lazy loading and deferred heavy libraries (ApexCharts, xlsx, jsPDF) to cut initial bundle weight',
+      'Designed the enterprise deployment architecture — OpenShift, Oracle, Redis, Solace MQ, SSO — for a 500+ concurrent-user on-prem banking rollout',
     ],
   },
   {
@@ -42,6 +45,11 @@ const experiences = [
 
 const Experience = () => {
   const [ref, inView] = useInView({ threshold: 0.1, triggerOnce: true });
+  const timelineRef = useRef(null);
+  const { scrollYProgress } = useScroll({
+    target: timelineRef,
+    offset: ['start 0.75', 'end 0.4'],
+  });
 
   return (
     <section className="section experience" id="experience" ref={ref}>
@@ -57,7 +65,8 @@ const Experience = () => {
         </h2>
       </motion.div>
 
-      <div className="timeline">
+      <div className="timeline" ref={timelineRef}>
+        <motion.div className="timeline-progress" style={{ scaleY: scrollYProgress }} />
         {experiences.map((exp, i) => (
           <motion.div
             key={i}

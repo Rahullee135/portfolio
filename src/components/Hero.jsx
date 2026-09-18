@@ -1,12 +1,26 @@
-import { motion } from 'framer-motion';
+import { useRef } from 'react';
+import { motion, useScroll, useTransform } from 'framer-motion';
 import { HiDownload, HiArrowDown } from 'react-icons/hi';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { Link } from 'react-scroll';
+import MagneticButton from './MagneticButton';
 
 const Hero = () => {
+  const heroRef = useRef(null);
+  const { scrollYProgress } = useScroll({
+    target: heroRef,
+    offset: ['start start', 'end start'],
+  });
+
+  const contentOpacity = useTransform(scrollYProgress, [0, 0.7], [1, 0]);
+  const contentScale = useTransform(scrollYProgress, [0, 1], [1, 0.9]);
+  const contentY = useTransform(scrollYProgress, [0, 1], [0, -80]);
+  const visualY = useTransform(scrollYProgress, [0, 1], [0, 120]);
+  const visualOpacity = useTransform(scrollYProgress, [0, 0.6], [1, 0]);
+
   return (
-    <section className="hero" id="hero">
-      <div className="hero-content">
+    <section className="hero" id="hero" ref={heroRef}>
+      <motion.div className="hero-content" style={{ opacity: contentOpacity, scale: contentScale, y: contentY }}>
         <motion.div
           className="hero-badge"
           initial={{ opacity: 0, scale: 0.5 }}
@@ -43,9 +57,9 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.8 }}
         >
-          A passionate developer with 4.5+ years of experience crafting scalable,
-          production-ready applications using React, Node.js, and MongoDB.
-          Turning complex problems into elegant solutions.
+          A passionate developer with 4.5+ years of experience architecting and shipping
+          production-grade platforms — from enterprise banking workflow systems to full-stack
+          MERN applications. Turning complex problems into elegant solutions.
         </motion.p>
 
         <motion.div
@@ -55,21 +69,17 @@ const Hero = () => {
           transition={{ duration: 0.6, delay: 1 }}
         >
           <Link to="projects" smooth duration={500} offset={-80}>
-            <button className="btn btn-primary hoverable">
+            <MagneticButton className="btn btn-primary hoverable">
               View My Work
               <HiArrowDown className="btn-icon" />
-            </button>
+            </MagneticButton>
           </Link>
           <Link to="contact" smooth duration={500} offset={-80}>
-            <button className="btn btn-outline hoverable">
-              Let's Talk
-            </button>
+            <MagneticButton className="btn btn-outline hoverable">Let's Talk</MagneticButton>
           </Link>
-          <a href="/portfolio/Rahul_Resume.pdf" download>
-            <button className="btn btn-outline hoverable">
-              <HiDownload className="btn-icon" /> Resume
-            </button>
-          </a>
+          <MagneticButton as="a" href="/portfolio/Rahul_Resume.pdf" download className="btn btn-outline hoverable">
+            <HiDownload className="btn-icon" /> Resume
+          </MagneticButton>
         </motion.div>
 
         <motion.div
@@ -81,14 +91,20 @@ const Hero = () => {
           <a href="https://github.com/Rahullee135" target="_blank" rel="noreferrer" className="social-link hoverable">
             <FaGithub size={22} />
           </a>
-          <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer" className="social-link hoverable">
+          <a
+            href="https://www.linkedin.com/in/rahul-prasad-65b993167/"
+            target="_blank"
+            rel="noreferrer"
+            className="social-link hoverable"
+          >
             <FaLinkedin size={22} />
           </a>
         </motion.div>
-      </div>
+      </motion.div>
 
       <motion.div
         className="hero-visual"
+        style={{ y: visualY, opacity: visualOpacity }}
         initial={{ opacity: 0, scale: 0.8 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.8, delay: 0.6 }}
