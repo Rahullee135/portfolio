@@ -5,9 +5,9 @@ import { FaGithub } from 'react-icons/fa';
 const flagship = {
   title: 'APTS — Unified Workflow Platform',
   client: 'Private-sector bank engagement',
-  tagline: 'A single multi-tenant platform running three enterprise banking workflows — architected and built end to end, solo, across backend and frontend.',
+  tagline: 'A single platform running three enterprise banking workflows — architected and delivered end to end, solo, across backend and frontend.',
   description:
-    "Banks tracked board action points, content approvals, and pricing sign-offs across spreadsheets and email threads with no audit trail, no ownership clarity, and no SLA escalation. I architected and built a unified workflow platform that replaces all three with one system — a shared authentication, RBAC, and notification core underneath three isolated tenant modules.",
+    "The bank tracked board action points, content approvals, and pricing sign-offs across spreadsheets and email threads with no audit trail, no ownership clarity, and no follow-up on overdue items. I delivered one connected platform that replaces all three with a single, auditable system — giving every request a clear owner, a visible status, and automatic follow-up until it's closed.",
   modules: [
     {
       name: 'APTS — Action Point Tracking',
@@ -38,7 +38,7 @@ const flagship = {
 const projects = [
   {
     title: 'Healthcare Tariff Validation',
-    description: 'A large-scale healthcare validation platform for real-time processing of treatment bills, codes, and claim documents with interactive dashboards.',
+    description: 'Delivered a large-scale healthcare validation platform that processes treatment bills, codes, and claim documents in real time, giving the QC team live dashboards and full visibility into every claim.',
     tech: ['React', 'TypeScript', 'Zustand', 'Ant Design', 'Plotly.js', 'REST APIs'],
     color: '#58A6FF',
     emoji: '🏥',

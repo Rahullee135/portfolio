@@ -4,21 +4,20 @@ import { useInView } from 'react-intersection-observer';
 
 const experiences = [
   {
-    role: 'Software Developer',
-    period: 'May 2025 – Present',
+    role: 'Intelligence Software Developer',
+    period: 'May 2025 – Sep 2026',
     description:
-      "Architecting and building a unified multi-tenant workflow platform for a leading private-sector bank — spanning board-level action-point tracking (APTS), centralized content request & approval (CWM), and pricing/deferral approvals (WBG) — end to end across backend and frontend.",
+      "Owned architecture and delivery of a unified enterprise workflow platform for a leading private-sector bank, end to end across backend and frontend — solo, from the ground up to production.",
     tech: ['React 19', 'TypeScript', 'Node.js', 'Express 5', 'PostgreSQL / Oracle', 'Zustand', 'React Query', 'Redis', 'Solace MQ'],
     highlights: [
-      'Architected both codebases from a flat structure into a scalable platform / shared / tenants layout — 56 backend + 148 frontend source files across 3 isolated tenant modules',
-      'Took backend test coverage from 45 → 93 tests (14 suites) and frontend from 0 → 99 tests, while cutting ESLint errors from 187 → 0',
-      'Optimized login/dashboard queries with a shared repository (single UNION query + Promise.all) and batch inserts, replacing N sequential round-trips',
-      'Code-split all 34+ frontend routes with lazy loading and deferred heavy libraries (ApexCharts, xlsx, jsPDF) to cut initial bundle weight',
-      'Designed the enterprise deployment architecture — OpenShift, Oracle, Redis, Solace MQ, SSO — for a 500+ concurrent-user on-prem banking rollout',
+      'Delivered a single connected platform that replaced three separate manual, spreadsheet-and-email-driven approval processes — board action-point tracking, marketing content approvals, and pricing sign-offs',
+      'Took the platform from the ground up to a fully tested, production-ready release trusted for real banking operations',
+      'Noticeably improved everyday performance — faster logins, dashboards, and page loads across the whole platform',
+      'Delivered a secure, enterprise-grade system built to reliably support hundreds of concurrent users',
     ],
   },
   {
-    role: 'Software Developer',
+    role: 'SDE1',
     period: 'Dec 2023 – Dec 2024',
     description: 'Developed responsive web applications and integrated frontend with third-party CRM platforms including Salesforce, Zendesk, and Kibo OMS.',
     tech: ['React', 'Material UI', 'Salesforce LWC', 'Zendesk ZAF', 'Node.js', 'Azure'],

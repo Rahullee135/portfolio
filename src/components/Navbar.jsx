@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link } from 'react-scroll';
 import { HiMenuAlt3, HiX } from 'react-icons/hi';
+import ThemeToggle from './ThemeToggle';
 
 const navItems = ['About', 'Skills', 'Experience', 'Projects', 'Github', 'Contact'];
 
@@ -52,8 +53,11 @@ const Navbar = () => {
           ))}
         </div>
 
-        <div className="nav-mobile-btn hoverable" onClick={() => setMenuOpen(!menuOpen)}>
-          {menuOpen ? <HiX size={28} /> : <HiMenuAlt3 size={28} />}
+        <div className="nav-right">
+          <ThemeToggle />
+          <div className="nav-mobile-btn hoverable" onClick={() => setMenuOpen(!menuOpen)}>
+            {menuOpen ? <HiX size={28} /> : <HiMenuAlt3 size={28} />}
+          </div>
         </div>
       </div>
 
